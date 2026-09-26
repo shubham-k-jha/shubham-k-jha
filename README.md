@@ -26,7 +26,7 @@
 
 ## 🧭 About Me
 
-I'm a **Research Data Analyst and Python Developer** with 3+ years of experience working with computational physics, scientific datasets, statistical analysis, time-series data, visualization, and reproducible Python workflows.
+I'm a **Research Data Analyst and Python Developer** with 4+ years of experience working with computational physics, scientific datasets, statistical analysis, time-series data, visualization, and reproducible Python workflows.
 
 My background in Physics trained me to work with **large, noisy, multidimensional datasets**, formulate quantitative questions, validate assumptions, and communicate results clearly.
 
