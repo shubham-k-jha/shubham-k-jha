@@ -1,29 +1,22 @@
 name: Update Profile README
-
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 6 * * 1"
-
+    - cron: '17 5 * * 1'
+  workflow_dispatch:
 permissions:
   contents: write
-
 jobs:
-  update:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Check profile files
+      - name: Generate from GitHub API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 generate_readme.py
+      - name: Commit only when changed
         run: |
-          test -f README.md
-          test -f config.yaml
-          echo "Profile README is ready."
-      - name: Commit changes if generated content changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git diff --exit-code || {
-            git add README.md data/repositories.json
-            git commit -m "chore: update profile portfolio"
-            git push
-          }
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md data/repositories.json
+          if git diff --cached --quiet; then echo 'No changes'; else git commit -m 'chore: refresh portfolio'; git push; fi
