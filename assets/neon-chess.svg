@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+<rect width="160" height="160" rx="28" fill="#07111F"/>
+<rect x="24" y="24" width="112" height="112" rx="14" fill="#7C3AED"/>
+<path d="M24 38h112M24 66h112M24 94h112M24 122h112M38 24v112M66 24v112M94 24v112M122 24v112" stroke="#07111F" stroke-width="4"/>
+<text x="80" y="102" text-anchor="middle" font-size="68" font-family="serif" fill="#fff">♞</text>
+</svg>
