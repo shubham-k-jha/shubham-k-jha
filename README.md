@@ -20,7 +20,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## 👋 THE SHORT VERSION
+## 👋 ABOUT ME
 
 I work at the intersection of **scientific research and data**.
 
