@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/PLAY%20PONG-F43F5E?style=for-the-badge&logo=javascript&logoColor=white"/>
 </a>
 
-[Game Repository](https://github.com/shubham-k-jha/pong)
+[Game Repository](https://github.com/shubham-k-jha/Neon-Pong)
 
 </td>
 </tr>
