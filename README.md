@@ -45,7 +45,7 @@
 
 **Take a break. Beat the AI.**
 
-<a href="https://shubham-k-jha.github.io/pong/">
+<a href="https://shubham-k-jha.github.io/Neon-Pong/">
 <img src="https://img.shields.io/badge/PLAY%20PONG-F43F5E?style=for-the-badge&logo=javascript&logoColor=white"/>
 </a>
 
