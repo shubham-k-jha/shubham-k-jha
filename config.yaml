@@ -1,61 +1,13 @@
 username: shubham-k-jha
 profile_url: https://github.com/shubham-k-jha
-linkedin: https://linkedin.com/in/shubham-jha-5163472bb
-email: sjha31190@gmail.com
 website: https://shubham-k-jha.github.io/
 personal_site_repo: https://github.com/shubham-k-jha/shubham-k-jha.github.io
-pong_repo: https://github.com/shubham-k-jha/pong
-pong_game: https://shubham-k-jha.github.io/pong/
-classification:
-  weights:
-    topics: 0.40
-    name: 0.20
-    description: 0.20
-    readme: 0.10
-    languages: 0.10
-  threshold: 0.35
-
-categories:
-  data_analytics:
-    title: "📊 Data Analytics"
-    keywords: [analytics, data-analysis, eda, business-analytics, sales, kpi, pandas, sql]
-  data_science:
-    title: "🤖 Data Science & Machine Learning"
-    keywords: [data-science, machine-learning, ml, sklearn, scikit-learn, xgboost, statistics, prediction, forecasting]
-  sql_databases:
-    title: "🗄️ SQL & Databases"
-    keywords: [sql, postgresql, postgres, mysql, database, databases, sql-server, mssql]
-  bi_visualization:
-    title: "📈 Business Intelligence & Visualization"
-    keywords: [power-bi, powerbi, tableau, dashboard, dashboards, visualization, matplotlib, seaborn, plotly, bi]
-  python:
-    title: "🐍 Python"
-    keywords: [python, pandas, numpy, scipy, automation, scripting]
-  research:
-    title: "🔬 Research & Scientific Computing"
-    keywords: [solar, solar-physics, hmi, aia, goes, astrophysics, scientific-computing, sunpy, astropy, physics]
-  cloud:
-    title: "☁️ Cloud & Deployment"
-    keywords: [aws, streamlit, deployment, api, cloud, docker]
-  learning:
-    title: "📚 Learning & Experiments"
-    keywords: [learning, tutorial, practice, experiment, experiments, course, workbook, notes]
-
-overrides:
-  solar-ar-kutsenko-ml:
-    categories: [data_science, research]
-    featured: true
-  superstore-analysis:
-    categories: [data_analytics, sql_databases, bi_visualization]
-    featured: true
-  ecommerce-sales-analysis:
-    categories: [data_analytics, sql_databases]
-    featured: true
-  online-retail-analytics:
-    categories: [data_analytics, data_science, python, sql_databases]
-    featured: true
-
-exclude: []
+pong:
+  live: https://shubham-k-jha.github.io/pong/
+  repository: https://github.com/shubham-k-jha/pong
+chess:
+  live: https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/
+  repository: https://github.com/shubham-k-jha/Neon-Chess-Chess-vs-AI
 
 known_category_map:
   data_analytics:
@@ -78,6 +30,3 @@ known_category_map:
     - online-retail-analytics
   research:
     - solar-ar-kutsenko-ml
-  cloud:
-    - superstore-analysis
-  learning: []

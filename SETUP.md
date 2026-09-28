@@ -1,195 +1,51 @@
-# Living GitHub Portfolio System
+# Shubham Jha — GitHub Portfolio
 
-## What this is
+## Confirmed links
 
-This package turns the profile README into a lightweight, automatically maintained portfolio.
+- Profile: https://github.com/shubham-k-jha
+- Website: https://shubham-k-jha.github.io/
+- Website repository: https://github.com/shubham-k-jha/shubham-k-jha.github.io
+- Pong: https://shubham-k-jha.github.io/pong/
+- Neon Chess: https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/
 
-- GitHub README = recruiter-facing entry point
-- `generate_readme.py` = GitHub API → classification → README generator
-- `config.yaml` = categories, keywords, weights, overrides, exclusions
-- `data/repositories.json` = generated repository metadata
-- `.github/workflows/update-readme.yml` = weekly automation
-- `README.template.md` = human-maintained presentation layer
+## What changed in v4
 
-GitHub README Markdown cannot run arbitrary JavaScript or load a custom CSS application. The cards here therefore use GitHub-compatible Markdown/HTML. For true filtering, animation, or interactive dashboards, use a separate GitHub Pages site.
+The README was reorganized from a CV-style sequence into a portfolio experience:
 
-## 1. Put these files in the profile repository
+1. Start Here
+2. Featured Work
+3. Game Lab
+4. Skills → Projects
+5. Research
+6. Now
+7. How I Build
+8. Journey
+9. Digital Space
+10. GitHub Dashboard
+11. Fun Zone
+12. Connect
 
-For a GitHub profile README, the repository name must exactly match the GitHub username.
+Details that would otherwise create a wall of text are inside `<details>` blocks and open only when clicked.
 
-Copy:
+## Rainbow visual system
 
-```text
-README.md
-README.template.md
-generate_readme.py
-config.yaml
-data/repositories.json
-.github/workflows/update-readme.yml
-```
+The profile now deliberately uses a broader rainbow palette: red, orange, yellow, green, cyan/blue, indigo/purple and pink. It is used through badges, emoji navigation, CTAs and the footer rather than applying a single color everywhere.
 
-## 2. Confirm the username
+## Skills → Projects
 
-Edit `config.yaml`:
+The visible skills section explicitly links each skill to repositories where it is actually demonstrated. This prevents a recruiter from seeing a skill with no evidence behind it.
 
-```yaml
-username: your-github-username
-```
+## Game Lab
 
-The current configuration uses `shubham-k-jha`, the confirmed GitHub username.
+Games are separated from professional projects:
 
-## 3. Generate locally
+- Pong → https://shubham-k-jha.github.io/pong/
+- Neon Chess → https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/
 
-```bash
-python -m pip install requests pyyaml
-export GITHUB_TOKEN="your-token"
-python generate_readme.py
-```
+## GitHub limitation
 
-A token is recommended for API-rate-limit headroom. Do not put it in source files.
+GitHub profile READMEs support Markdown/HTML but not arbitrary JavaScript or custom CSS. Therefore this version uses compatible tables, links, badges and collapsible sections. The full interactive portfolio should remain on GitHub Pages.
 
-## 4. Enable GitHub Actions
+## Upload
 
-Commit the workflow to:
-
-```text
-.github/workflows/update-readme.yml
-```
-
-The workflow uses GitHub's built-in `GITHUB_TOKEN`, so no personal access token needs to be stored in the repository.
-
-It runs weekly and can also be started manually from the Actions tab.
-
-## 5. How categorization works
-
-The classifier checks:
-
-1. Topics — 40%
-2. Repository name — 20%
-3. Description — 20%
-4. README content — 10%
-5. Primary language — 10%
-
-The weights are configurable in `config.yaml`.
-
-A repository can belong to multiple categories. If no category reaches the configured threshold, it is left uncategorized rather than forced into a misleading section.
-
-## 6. Manual overrides
-
-Use:
-
-```yaml
-overrides:
-  my-repository:
-    categories: [data_analytics, bi_visualization]
-    featured: true
-```
-
-Overrides take precedence over automatic category assignment.
-
-## 7. Exclusions
-
-Use:
-
-```yaml
-exclude:
-  - scratch-repository
-  - archived-experiment
-```
-
-Excluded repositories are not rendered.
-
-## 8. Add a category
-
-Add a new block under `categories`:
-
-```yaml
-business_operations:
-  title: "🧭 Business Operations"
-  keywords:
-    - operations
-    - process
-    - workflow
-```
-
-Then add a matching marker pair to `README.template.md`:
-
-```html
-<!-- AUTO:CATEGORY:business_operations:START -->
-<!-- AUTO:CATEGORY:business_operations:END -->
-```
-
-The generator will populate it automatically.
-
-## 9. Why the generated README does not hard-code repository counts
-
-Repository counts are derived from the live API response during generation. This avoids stale numbers after repositories are added, renamed, archived, or deleted.
-
-## 10. Ranking
-
-Repository ordering is a configurable supporting-signal ranking, not a claim of project quality. Stars and forks are never treated as proof of quality.
-
-## 11. GitHub Pages extension
-
-If you want true clickable square cards, filters, search, animations, and category pages, create a Pages site using the same `data/repositories.json`.
-
-Suggested architecture:
-
-```text
-GitHub API
-    ↓
-generate_readme.py
-    ├── README.md
-    └── data/repositories.json
-                 ↓
-          GitHub Pages
-                 ↓
-        Interactive portfolio
-```
-
-The README remains the fast recruiter entry point; Pages provides the richer UI.
-
-## Username
-
-The confirmed GitHub username is `shubham-k-jha`. All generated profile URLs, repository API calls, badges, and project links use this username.
-
-## Visual design
-
-The README is intentionally designed as a portfolio rather than a conventional resume:
-- hero banner
-- animated typing line
-- navigation dashboard
-- visual skill stack
-- project spotlights
-- auto-generated project categories
-- build workflow
-- learning section
-- research section
-- career journey
-- Fun Zone
-- GitHub activity dashboard
-- automation architecture
-- contact CTA
-
-GitHub README files cannot run arbitrary JavaScript or custom CSS. The visual cards therefore use supported Markdown/HTML and linked sections. For true filtering, animated page transitions, search, project detail pages, and interactive category cards, use the optional GitHub Pages layer.
-
-## Personal website
-
-The profile README now links to the personal portfolio website:
-
-- Live website: https://shubham-k-jha.github.io
-- Website source repository: https://github.com/shubham-k-jha/shubham-k-jha.github.io
-
-The website is surfaced in the hero, navigation, dedicated Personal Website section, and final contact area.
-
-## Personal website and Pong
-
-The README now links to the confirmed portfolio site:
-
-`https://shubham-k-jha.github.io/`
-
-and the Pong game:
-
-`https://shubham-k-jha.github.io/pong/`
-
-The portfolio repository exists at `shubham-k-jha/shubham-k-jha.github.io`, and the Pong repository exists at `shubham-k-jha/pong`. The Pong repository documents mouse/keyboard controls, an AI opponent, collision physics and increasing difficulty.
+Replace the existing `README.md` in the `shubham-k-jha` profile repository with this version. Keep the `.github`, `data`, and `config.yaml` files if you want to retain the portfolio-system structure.
