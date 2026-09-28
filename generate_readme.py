@@ -1,3 +1,6 @@
+# AUTO-GENERATED VISUAL TEMPLATE MODE
+# The profile README is maintained as README.template.md for the visual layer.
+# The API/classifier engine can still update data/repositories.json.
 #!/usr/bin/env python3
 import json, os, sys, urllib.request
 from pathlib import Path
