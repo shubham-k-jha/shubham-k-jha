@@ -431,17 +431,16 @@ The README uses GitHub-supported Markdown/HTML patterns and collapsible sections
 
 <table width="100%">
 <tr>
+
 <td align="center" width="25%" valign="top">
 
 ### 💼 PROFESSIONAL
 
 <a href="mailto:shubhamkjha.ds@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-DS-FF4D6D?style=for-the-badge">
+<img src="https://img.shields.io/badge/CONTACT-FF4D6D?style=for-the-badge">
 </a>
 
-**shubhamkjha.ds@gmail.com**
-
-Data / Analytics / Professional opportunities
+**Data & Analytics**
 
 </td>
 
@@ -450,12 +449,10 @@ Data / Analytics / Professional opportunities
 ### 🔬 RESEARCH
 
 <a href="mailto:sjha31190@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-RESEARCH-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/CONTACT-7C3AED?style=for-the-badge">
 </a>
 
-**sjha31190@gmail.com**
-
-Research / Scientific Computing
+**Research & Scientific Computing**
 
 </td>
 
@@ -479,59 +476,15 @@ Research / Scientific Computing
 <img src="https://img.shields.io/badge/VIEW_CV-111827?style=for-the-badge">
 </a>
 
-**Download / View**
-
-Latest CV
+**Resume / Experience**
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center" width="33%" valign="top">
 
-<a href="mailto:shubhamkjha.ds@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-DS-FF4D6D?style=for-the-badge">
-</a>
-
-**shubhamkjha.ds@gmail.com**
-
-Data / Analytics /  
-Professional opportunities
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 🔬 RESEARCH
-
-<a href="mailto:sjha31190@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-RESEARCH-7C3AED?style=for-the-badge">
-</a>
-
-**sjha31190@gmail.com**
-
-Research / Scientific  
-Computing / Collaboration
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 💼 LINKEDIN
-
-<a href="https://www.linkedin.com/in/shubham-k-jha/">
-<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge">
-</a>
-
-**Professional Network**
-
-Data · Analytics · Research
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top">
+<td align="center" width="25%" valign="top">
 
 ### 🌐 PORTFOLIO
 
@@ -539,13 +492,11 @@ Data · Analytics · Research
 <img src="https://img.shields.io/badge/OPEN-00C2FF?style=for-the-badge">
 </a>
 
-**Personal Website**
-
-Projects · Skills · Work
+**Website & Projects**
 
 </td>
 
-<td align="center" valign="top">
+<td align="center" width="25%" valign="top">
 
 ### 💻 GITHUB
 
@@ -553,41 +504,40 @@ Projects · Skills · Work
 <img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=for-the-badge">
 </a>
 
-**Code & Projects**
-
-Repositories · Experiments
+**Code & Repositories**
 
 </td>
 
-<td align="center" valign="top">
+<td align="center" width="25%" valign="top">
 
-### 🎮 GAME LAB
+### 🏓 PONG
 
 <a href="https://shubham-k-jha.github.io/pong/">
 <img src="https://img.shields.io/badge/PLAY-FF0080?style=for-the-badge">
 </a>
 
-**Pong · Chess**
-
-Interactive projects
+**Neon Pong**
 
 </td>
+
+<td align="center" width="25%" valign="top">
+
+### ♟️ CHESS
+
+<a href="https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/">
+<img src="https://img.shields.io/badge/PLAY-FF4D00?style=for-the-badge">
+</a>
+
+**Neon Chess vs AI**
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
-<a href="mailto:shubhamkjha.ds@gmail.com">
-<img src="https://img.shields.io/badge/📧_SHUBHAMKJHA.DS%40GMAIL.COM-FF4D6D?style=for-the-badge&labelColor=07111F">
-</a>
-
-<a href="mailto:sjha31190@gmail.com">
-<img src="https://img.shields.io/badge/✉️_SJHA31190%40GMAIL.COM-7C3AED?style=for-the-badge&labelColor=07111F">
-</a>
-
-<br><br>
-
-**Open to conversations around Data Analytics · BI · Python · SQL · Scientific Data · Applied Data Science**
+**Data Analytics · BI · Python · SQL · Scientific Data · Applied Data Science**
 
 </div>
 
@@ -595,18 +545,22 @@ Interactive projects
 
 <div align="center">
 
-<a href="https://github.com/shubham-k-jha">
-<img src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://shubham-k-jha.github.io/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00C2FF?style=for-the-badge">
-</a>
-<a href="https://www.linkedin.com/in/shubham-k-jha/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge">
+<a href="mailto:shubhamkjha.ds@gmail.com">
+<img src="https://img.shields.io/badge/SHUBHAMKJHA.DS%40GMAIL.COM-FF4D6D?style=for-the-badge&labelColor=07111F">
 </a>
 
-<br><br>
+&nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,20:FF4D00,40:FFD000,60:00D084,80:00C2FF,100:7C3AED&height=130&section=footer"/>
+<a href="mailto:sjha31190@gmail.com">
+<img src="https://img.shields.io/badge/SJHA31190%40GMAIL.COM-7C3AED?style=for-the-badge&labelColor=07111F">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:111827&height=110&section=footer"/>
 
 </div>
