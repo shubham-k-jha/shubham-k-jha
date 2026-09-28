@@ -214,7 +214,7 @@ Customer analytics using **RFM segmentation** and cancellation prediction with *
 
 ### 🏓 NEON PONG
 
-<a href="https://shubham-k-jha.github.io/pong/">
+<a href="https://shubham-k-jha.github.io/Neon-Pong/">
 <img src="https://img.shields.io/badge/▶_PLAY_LIVE-FF0080?style=for-the-badge&logoColor=white">
 </a>
 
