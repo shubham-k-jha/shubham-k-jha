@@ -1,47 +1,11 @@
 {
-  "source": "User-supplied existing README; not a live API snapshot",
-  "username_configured_for_live_sync": "shubham-k-jha",
-  "known_projects": [
-    {
-      "name": "solar-ar-kutsenko-ml",
-      "categories": [
-        "data_science",
-        "research"
-      ],
-      "source_url": "https://github.com/shubham-k-jha/solar-ar-kutsenko-ml"
-    },
-    {
-      "name": "superstore-analysis",
-      "categories": [
-        "data_analytics",
-        "sql_databases",
-        "bi_visualization"
-      ],
-      "source_url": "https://github.com/shubham-k-jha/superstore-analysis"
-    },
-    {
-      "name": "ecommerce-sales-analysis",
-      "categories": [
-        "data_analytics",
-        "sql_databases"
-      ],
-      "source_url": "https://github.com/shubham-k-jha/ecommerce-sales-analysis"
-    },
-    {
-      "name": "online-retail-analytics",
-      "categories": [
-        "data_analytics",
-        "data_science",
-        "python",
-        "sql_databases"
-      ],
-      "source_url": "https://github.com/shubham-k-jha/online-retail-analytics"
-    }
-  ],
+  "username": "shubham-k-jha",
   "personal_links": {
     "website": "https://shubham-k-jha.github.io/",
     "website_repository": "https://github.com/shubham-k-jha/shubham-k-jha.github.io",
     "pong": "https://shubham-k-jha.github.io/pong/",
-    "pong_repository": "https://github.com/shubham-k-jha/pong"
+    "pong_repository": "https://github.com/shubham-k-jha/pong",
+    "chess": "https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/",
+    "chess_repository": "https://github.com/shubham-k-jha/Neon-Chess-Chess-vs-AI"
   }
 }
