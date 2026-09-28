@@ -1,11 +1,6 @@
-{
-  "username": "shubham-k-jha",
-  "personal_links": {
-    "website": "https://shubham-k-jha.github.io/",
-    "website_repository": "https://github.com/shubham-k-jha/shubham-k-jha.github.io",
-    "pong": "https://shubham-k-jha.github.io/pong/",
-    "pong_repository": "https://github.com/shubham-k-jha/pong",
-    "chess": "https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/",
-    "chess_repository": "https://github.com/shubham-k-jha/Neon-Chess-Chess-vs-AI"
-  }
-}
+[
+{"name":"solar-ar-kutsenko-ml","html_url":"https://github.com/shubham-k-jha/solar-ar-kutsenko-ml","description":"Physics-informed machine learning for emerging solar active regions, magnetic-flux emergence, and flare productivity using Kutsenko catalogues, XGBoost, SHAP, and statistical modelling.","language":"Jupyter Notebook","stargazers_count":0,"forks_count":0,"archived":false,"topics":["machine-learning","solar-physics","xgboost","shap","scientific-computing"]},
+{"name":"superstore-analysis","html_url":"https://github.com/shubham-k-jha/superstore-analysis","description":"Superstore sales analysis using SQL, Python, and Power BI for data-driven business insights.","language":"HTML","stargazers_count":0,"forks_count":0,"archived":false,"topics":["sql","python","power-bi","data-analysis","dashboard"]},
+{"name":"ecommerce-sales-analysis","html_url":"https://github.com/shubham-k-jha/ecommerce-sales-analysis","description":"E-commerce sales analysis using SQL, Python, Pandas, and Matplotlib.","language":"Python","stargazers_count":0,"forks_count":0,"archived":false,"topics":["sql","python","pandas","data-analysis"]},
+{"name":"online-retail-analytics","html_url":"https://github.com/shubham-k-jha/online-retail-analytics","description":"Analyzed the UCI Online Retail II dataset using Pandas and PySpark, covering data analysis, RFM customer segmentation, and cancellation prediction with Random Forest. Achieved 0.845 ROC-AUC and optimized the classification threshold under class imbalance.","language":"Jupyter Notebook","stargazers_count":0,"forks_count":0,"archived":false,"topics":["python","pandas","pyspark","machine-learning","retail-analytics"]}
+]
