@@ -2,6 +2,10 @@ username: shubham-k-jha
 profile_url: https://github.com/shubham-k-jha
 linkedin: https://linkedin.com/in/shubham-jha-5163472bb
 email: sjha31190@gmail.com
+website: https://shubham-k-jha.github.io/
+personal_site_repo: https://github.com/shubham-k-jha/shubham-k-jha.github.io
+pong_repo: https://github.com/shubham-k-jha/pong
+pong_game: https://shubham-k-jha.github.io/pong/
 classification:
   weights:
     topics: 0.40
@@ -52,3 +56,28 @@ overrides:
     featured: true
 
 exclude: []
+
+known_category_map:
+  data_analytics:
+    - superstore-analysis
+    - ecommerce-sales-analysis
+    - online-retail-analytics
+  data_science:
+    - solar-ar-kutsenko-ml
+    - online-retail-analytics
+  sql_databases:
+    - superstore-analysis
+    - ecommerce-sales-analysis
+    - online-retail-analytics
+  bi_visualization:
+    - superstore-analysis
+  python:
+    - solar-ar-kutsenko-ml
+    - superstore-analysis
+    - ecommerce-sales-analysis
+    - online-retail-analytics
+  research:
+    - solar-ar-kutsenko-ml
+  cloud:
+    - superstore-analysis
+  learning: []

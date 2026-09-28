@@ -4,6 +4,7 @@
 
 <p>
   <a href="https://github.com/shubham-k-jha"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://shubham-k-jha.github.io"><img src="https://img.shields.io/badge/Personal%20Website-Visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/shubham-jha-5163472bb"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sjha31190@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -18,11 +19,51 @@
 
 ---
 
+
+<div align="center">
+
+## 🌐 Personal Website & 🎮 Game Lab
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🌐 PERSONAL WEBSITE
+
+**My full interactive portfolio**
+
+<a href="https://shubham-k-jha.github.io/">
+<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+[Source Repository](https://github.com/shubham-k-jha/shubham-k-jha.github.io)
+
+</td>
+<td align="center" width="50%">
+
+### 🏓 PONG GAME
+
+**Take a break. Beat the AI.**
+
+<a href="https://shubham-k-jha.github.io/pong/">
+<img src="https://img.shields.io/badge/PLAY%20PONG-F43F5E?style=for-the-badge&logo=javascript&logoColor=white"/>
+</a>
+
+[Game Repository](https://github.com/shubham-k-jha/pong)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🧭 NAVIGATE
 
-| 🏠 [About](#-about-me) | 🧰 [Skills](#-toolbox) | ⭐ [Projects](#-featured-projects) | 📊 [Analytics](#-explore-my-work) |
+| 🏠 [About](#-about-me) | 🧰 [Skills](#-toolbox) | ⭐ [Projects](#-featured-projects) | 🌐 [Website](#-personal-website) |
 |---|---|---|---|
 | 🔬 [Research](#-research--scientific-computing) | 🚀 [Building](#-currently-building) | 📚 [Learning](#-currently-learning) | 🎮 [Fun Zone](#-fun-zone) |
 | 🏆 [Journey](#-my-journey) | 📈 [Activity](#-github-dashboard) | 🤝 [Connect](#-lets-connect) | ⚙️ [Automation](#-portfolio-automation) |
@@ -33,65 +74,80 @@
 
 ## 👋 About Me
 
-I'm a **Research Data Analyst and Python Developer** with 3+ years of experience working with computational physics, scientific datasets, statistical analysis, time-series data, visualization, and reproducible Python workflows.
-
-My background in Physics trained me to work with **large, noisy, multidimensional datasets**, formulate quantitative questions, validate assumptions, and communicate results clearly.
-
-Now I'm applying that analytical foundation to **Data Analytics, Business Intelligence and Data Science** through hands-on projects in Python, SQL, Power BI, statistics, machine learning and scientific computing.
-
-<div align="center">
-
-| 🔎 ANALYZE | 🧹 PREPARE | 📊 VISUALIZE | 🤖 MODEL | 💡 EXPLAIN |
-|:---:|:---:|:---:|:---:|:---:|
-| Find patterns | Clean data | Build dashboards | Test models | Communicate insights |
-
-</div>
-
----
-
-# 🧰 Toolbox
-
-### 🐍 Programming & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-### 📊 Analytics, BI & Visualization
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🗄️ Databases & Big Data
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-### 🤖 Machine Learning & Deployment
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-F7931E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <details>
-<summary><b>🔬 Scientific Computing Stack</b></summary>
+<summary><b>👨‍💻 About Me — click to expand</b></summary>
 
-<br/>
+### Who I am
+Research Data Analyst → Data Analyst → Aspiring Data Scientist
 
-`SunPy` · `Astropy` · `SciPy` · `NumPy` · `IDL` · `Linux` · `Jupyter`
+### What I work with
+Python · SQL · Power BI · Statistics · Machine Learning · Scientific Computing
 
-**Domains:** Solar Active Regions · Solar Flares · Magnetic Fields · Time-Series Analysis · Statistical Analysis
+### What I build
+Business analytics projects, ML workflows, dashboards, scientific-data pipelines and interactive applications.
+
+### What I bring
+- Quantitative reasoning from Physics research
+- Data cleaning, EDA and statistical analysis
+- SQL-based business analysis
+- Dashboarding and data storytelling
+- ML experimentation and model interpretation
+- Technical communication and reproducible workflows
+
+### Current direction
+Building practical Data Analytics / Data Science projects while continuing research-oriented scientific computing.
 
 </details>
 
 ---
 
+# 🧰 Toolbox
+
+<div align="center">
+
+| 🐍 **Python & Data** | 📊 **Analytics & BI** | 🗄️ **Databases** | 🤖 **ML & Deployment** |
+|---|---|---|---|
+| Python · Pandas · NumPy · SciPy | Power BI · Matplotlib · Seaborn · Plotly | PostgreSQL · MySQL · SQL | Scikit-learn · PySpark · Streamlit · AWS |
+
+</div>
+
+<details>
+<summary><b>🐍 Python & Data</b></summary>
+
+`Python` `Pandas` `NumPy` `SciPy`
+
+</details>
+
+<details>
+<summary><b>📊 Analytics, BI & Visualization</b></summary>
+
+`SQL` `Power BI` `Matplotlib` `Seaborn` `Plotly`
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Big Data</b></summary>
+
+`PostgreSQL` `MySQL` `PySpark` `Apache Spark`
+
+</details>
+
+<details>
+<summary><b>🤖 Machine Learning & Deployment</b></summary>
+
+`Scikit-learn` `Streamlit` `AWS`
+
+</details>
+
+<details>
+<summary><b>🔬 Scientific Computing</b></summary>
+
+`SunPy` · `Astropy` · `SciPy` · `NumPy` · `IDL` · `Linux` · `Jupyter`
+
+</details>
+
+---
 # 🧭 Explore My Work
 
 <div align="center">
@@ -432,49 +488,64 @@ My research work involves large scientific datasets, quantitative analysis, visu
 
 # 🎮 Fun Zone
 
-> Because a GitHub profile doesn't have to feel like a CV.
+<div align="center">
 
-### ☕ Debugging philosophy
+### 🏓 Need a break from SQL?
+
+<a href="https://shubham-k-jha.github.io/pong/">
+<img src="https://img.shields.io/badge/PLAY%20PONG-NOW!-F43F5E?style=for-the-badge&logo=javascript&logoColor=white"/>
+</a>
+
+</div>
+
+> Because a GitHub profile can show personality too.
+
+<details>
+<summary><b>☕ My debugging philosophy</b></summary>
 
 ```text
 Works on my machine.
         ↓
 Works after coffee.
         ↓
-Works after reading the error.
+Read the error.
         ↓
-Works after asking "why?"
+Ask "why?"
         ↓
 Document it.
         ↓
-Never touch it again.
+Never touch it again. 😄
 ```
 
-### 🧩 If my work were a dataset...
+</details>
+
+<details>
+<summary><b>🧩 If my work were a dataset...</b></summary>
 
 | Column | Value |
 |---|---|
 | `primary_language` | Python 🐍 |
 | `favorite_query` | `SELECT ... GROUP BY ...` |
 | `default_plot` | "Let's make one more chart." 📊 |
-| `debug_strategy` | Read the error message 😄 |
 | `research_mode` | 🔬 ON |
 | `analytics_mode` | 📈 ON |
-| `coffee_dependency` | ☕ Probably |
 | `learning_status` | `in_progress = True` |
 
-### ⚡ Small things I enjoy
+</details>
 
-- 📊 Finding patterns hidden inside messy data
-- 🐍 Automating repetitive analysis
-- 📈 Turning numbers into visual stories
-- 🔬 Connecting scientific questions with computation
-- 🧠 Understanding *why* a model behaves the way it does
-- 🛠️ Turning an idea into a working project
-- 📚 Learning a tool by actually building something
+<details>
+<summary><b>⚡ Things I enjoy building</b></summary>
+
+📊 Finding patterns in messy data  
+🐍 Automating repetitive analysis  
+📈 Turning numbers into visual stories  
+🔬 Connecting science with computation  
+🧠 Understanding model behaviour  
+🛠️ Turning ideas into working projects
+
+</details>
 
 ---
-
 # 📈 GitHub Dashboard
 
 <div align="center">
@@ -566,6 +637,10 @@ This profile is designed as a **living portfolio**, not a static README.
 
 <a href="https://github.com/shubham-k-jha">
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://shubham-k-jha.github.io">
+<img src="https://img.shields.io/badge/Website-Visit%20Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>

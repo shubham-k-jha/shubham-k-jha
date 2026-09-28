@@ -99,13 +99,25 @@ def classify(repo: dict, readme: str) -> list[str]:
     name = repo["name"]
     if name in OVERRIDES and "categories" in OVERRIDES[name]:
         return OVERRIDES[name]["categories"]
+
     scores = {}
     for slug, meta in CATEGORIES.items():
         scores[slug] = max(
             (category_score(repo, kw, readme) for kw in meta.get("keywords", [])),
             default=0.0,
         )
-    return [slug for slug, score in scores.items() if score >= THRESHOLD]
+
+    detected = [slug for slug, score in scores.items() if score >= THRESHOLD]
+
+    # Explicit known-project mappings are a safety net when repositories
+    # have sparse/missing topics or descriptions. Automatic classification
+    # still remains the primary mechanism for new repositories.
+    known_map = CONFIG.get("known_category_map", {})
+    for slug, names in known_map.items():
+        if name in names and slug not in detected:
+            detected.append(slug)
+
+    return detected
 
 
 def quality_score(repo: dict) -> float:
@@ -168,7 +180,18 @@ def main():
     for slug in CATEGORIES:
         items = [r for r in live if slug in r.get("categories", [])]
         items.sort(key=quality_score, reverse=True)
-        body = "\n\n".join(card(r) for r in items) or "_No repositories currently classified in this category._"
+        body = "\n\n".join(card(r) for r in items)
+        if not body:
+            body = (
+                f"_No repository matched automatically yet._  \\n"
+                f"[🔎 Search my GitHub for {CATEGORIES[slug]['title']} →]"
+                f"(https://github.com/{USERNAME}?tab=repositories&q={slug.replace('_','%20')})"
+            )
+        else:
+            body += (
+                f"\\n\\n[🔎 Explore all repositories in this category →]"
+                f"(https://github.com/{USERNAME}?tab=repositories)"
+            )
         text = replace_marker(text, f"CATEGORY:{slug}", body)
 
     active = [

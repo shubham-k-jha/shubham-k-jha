@@ -172,3 +172,24 @@ The README is intentionally designed as a portfolio rather than a conventional r
 - contact CTA
 
 GitHub README files cannot run arbitrary JavaScript or custom CSS. The visual cards therefore use supported Markdown/HTML and linked sections. For true filtering, animated page transitions, search, project detail pages, and interactive category cards, use the optional GitHub Pages layer.
+
+## Personal website
+
+The profile README now links to the personal portfolio website:
+
+- Live website: https://shubham-k-jha.github.io
+- Website source repository: https://github.com/shubham-k-jha/shubham-k-jha.github.io
+
+The website is surfaced in the hero, navigation, dedicated Personal Website section, and final contact area.
+
+## Personal website and Pong
+
+The README now links to the confirmed portfolio site:
+
+`https://shubham-k-jha.github.io/`
+
+and the Pong game:
+
+`https://shubham-k-jha.github.io/pong/`
+
+The portfolio repository exists at `shubham-k-jha/shubham-k-jha.github.io`, and the Pong repository exists at `shubham-k-jha/pong`. The Pong repository documents mouse/keyboard controls, an AI opponent, collision physics and increasing difficulty.
