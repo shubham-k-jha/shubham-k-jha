@@ -20,7 +20,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## 👋 ABOUT ME
+## 👋 THE SHORT VERSION
 
 I work at the intersection of **scientific research and data**.
 
@@ -214,7 +214,7 @@ Customer analytics using **RFM segmentation** and cancellation prediction with *
 
 ### 🏓 NEON PONG
 
-<a href="https://shubham-k-jha.github.io/Neon-Pong/">
+<a href="https://shubham-k-jha.github.io/pong/">
 <img src="https://img.shields.io/badge/▶_PLAY_LIVE-FF0080?style=for-the-badge&logoColor=white">
 </a>
 
@@ -405,6 +405,99 @@ GitHub Actions
 `generate_readme.py` · `config.json` · `data/repositories.json` · `.github/workflows/update-readme.yml`
 
 The README uses GitHub-supported Markdown/HTML patterns and collapsible sections; GitHub officially supports HTML, tables, images and `<details>` in profile READMEs. citeturn0search0turn0search6
+
+---
+
+# 🚀 LIVE APPS & INTERACTIVE BUILDS
+
+> **Try the work, don't just read about it.**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📈 FINANCE CALCULATOR
+
+<a href="https://finance-calc-app.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_OPEN_APP-00C2FF?style=for-the-badge&labelColor=07111F" />
+</a>
+
+**Streamlit · Plotly · Finance**
+
+Interactive finance calculator and dashboard.
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 ATS RESUME SCREENER
+
+<a href="https://ats--resume-screener.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_OPEN_APP-7C3AED?style=for-the-badge&labelColor=07111F" />
+</a>
+
+<a href="https://github.com/shubhamkjha-datascience/ats-resume-screener">
+<img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**Streamlit · Resume Analytics · ATS**
+
+Interactive resume screening and analysis workflow.
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 JOB AGENT
+
+<a href="https://job--agent.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_OPEN_APP-FF4D6D?style=for-the-badge&labelColor=07111F" />
+</a>
+
+**Streamlit · Job Discovery · Automation**
+
+Interactive job-search and matching workflow.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎮 GAME LAB
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🏓 NEON PONG
+
+<a href="https://shubham-k-jha.github.io/Neon-Pong">
+<img src="https://img.shields.io/badge/▶_PLAY_LIVE-FF2BD6?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+
+<a href="https://github.com/shubham-k-jha/pong">
+<img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**Browser Game · JavaScript · UI**
+
+</td>
+<td align="center" width="50%">
+
+### ♟️ NEON CHESS
+
+<a href="https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/">
+<img src="https://img.shields.io/badge/▶_PLAY_LIVE-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+
+<a href="https://github.com/shubham-k-jha/Neon-Chess-Chess-vs-AI">
+<img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**Browser Game · Chess · AI**
+
+</td>
+</tr>
+</table>
 
 ---
 
