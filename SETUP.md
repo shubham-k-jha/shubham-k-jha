@@ -152,3 +152,23 @@ The README remains the fast recruiter entry point; Pages provides the richer UI.
 ## Username
 
 The confirmed GitHub username is `shubham-k-jha`. All generated profile URLs, repository API calls, badges, and project links use this username.
+
+## Visual design
+
+The README is intentionally designed as a portfolio rather than a conventional resume:
+- hero banner
+- animated typing line
+- navigation dashboard
+- visual skill stack
+- project spotlights
+- auto-generated project categories
+- build workflow
+- learning section
+- research section
+- career journey
+- Fun Zone
+- GitHub activity dashboard
+- automation architecture
+- contact CTA
+
+GitHub README files cannot run arbitrary JavaScript or custom CSS. The visual cards therefore use supported Markdown/HTML and linked sections. For true filtering, animated page transitions, search, project detail pages, and interactive category cards, use the optional GitHub Pages layer.
