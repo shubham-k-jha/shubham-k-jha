@@ -30,3 +30,12 @@ git push origin main
 ```
 
 If your profile repo uses another default branch, replace `main` with that branch.
+
+
+## CV
+
+The package includes the uploaded CV at:
+
+`assets/Shubham-Jha-CV.pdf`
+
+The README links to it with a repository-relative path, so the CV button works directly from the GitHub profile repository. GitHub supports relative links to files in a repository README.

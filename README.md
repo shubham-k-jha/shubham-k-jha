@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,20:ff4d00,40:ffd000,60:00d084,80:00c2ff,100:7c3aed&height=220&section=header&text=SHUBHAM%20JHA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=RESEARCH%20%7C%20DATA%20%7C%20PYTHON%20%7C%20SQL&descAlignY=61&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:111827&height=220&section=header&text=SHUBHAM%20JHA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=RESEARCH%20%7C%20DATA%20%7C%20PYTHON%20%7C%20SQL&descAlignY=64&descSize=18"/>
 
 <a href="https://shubham-k-jha.github.io/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00C2FF?style=for-the-badge&labelColor=07111F"></a>
 <a href="https://github.com/shubham-k-jha"><img src="https://img.shields.io/badge/💻_GITHUB-7C3AED?style=for-the-badge&labelColor=07111F"></a>
+<a href="./assets/Shubham-Jha-CV.pdf"><img src="https://img.shields.io/badge/📄_CV-111827?style=for-the-badge&labelColor=07111F"></a>
 <a href="https://www.linkedin.com/in/shubham-k-jha/"><img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&labelColor=07111F"></a>
 <a href="mailto:sjha31190@gmail.com"><img src="https://img.shields.io/badge/✉️_EMAIL-FF4D6D?style=for-the-badge&labelColor=07111F"></a>
 
@@ -370,6 +371,20 @@ This background directly transfers to data roles through:
 
 ---
 
+# 📄 CURRICULUM VITAE
+
+<div align="center">
+
+<a href="./assets/Shubham-Jha-CV.pdf">
+<img src="https://img.shields.io/badge/📄_VIEW_MY_CV-111827?style=for-the-badge">
+</a>
+
+<a href="./assets/Shubham-Jha-CV.pdf">
+<img src="https://img.shields.io/badge/⬇️_OPEN_CV-00C2FF?style=for-the-badge">
+</a>
+
+</div>
+
 # 🌐 DIGITAL SPACE
 
 | 🌍 Destination | 🚀 Open |
@@ -416,9 +431,63 @@ The README uses GitHub-supported Markdown/HTML patterns and collapsible sections
 
 <table width="100%">
 <tr>
-<td align="center" width="33%" valign="top">
+<td align="center" width="25%" valign="top">
 
 ### 💼 PROFESSIONAL
+
+<a href="mailto:shubhamkjha.ds@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-DS-FF4D6D?style=for-the-badge">
+</a>
+
+**shubhamkjha.ds@gmail.com**
+
+Data / Analytics / Professional opportunities
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### 🔬 RESEARCH
+
+<a href="mailto:sjha31190@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-RESEARCH-7C3AED?style=for-the-badge">
+</a>
+
+**sjha31190@gmail.com**
+
+Research / Scientific Computing
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### 💼 LINKEDIN
+
+<a href="https://www.linkedin.com/in/shubham-k-jha/">
+<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge">
+</a>
+
+**Professional Network**
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### 📄 CV
+
+<a href="./assets/Shubham-Jha-CV.pdf">
+<img src="https://img.shields.io/badge/VIEW_CV-111827?style=for-the-badge">
+</a>
+
+**Download / View**
+
+Latest CV
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%" valign="top">
 
 <a href="mailto:shubhamkjha.ds@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-DS-FF4D6D?style=for-the-badge">
