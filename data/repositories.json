@@ -37,5 +37,11 @@
       ],
       "source_url": "https://github.com/shubham-k-jha/online-retail-analytics"
     }
-  ]
+  ],
+  "personal_links": {
+    "website": "https://shubham-k-jha.github.io/",
+    "website_repository": "https://github.com/shubham-k-jha/shubham-k-jha.github.io",
+    "pong": "https://shubham-k-jha.github.io/pong/",
+    "pong_repository": "https://github.com/shubham-k-jha/pong"
+  }
 }
