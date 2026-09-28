@@ -1,51 +1,32 @@
-# Shubham Jha — GitHub Portfolio
+# Setup — Real v5 Portfolio System
 
-## Confirmed links
+1. Copy these files into `shubham-k-jha/shubham-k-jha`:
+   - `README.md`
+   - `generate_readme.py`
+   - `config.json`
+   - `data/repositories.json`
+   - `.github/workflows/update-readme.yml`
+2. Commit and push.
+3. GitHub Actions will refresh the README every Monday or when manually dispatched.
+4. The generator uses the public GitHub API and `GITHUB_TOKEN` in Actions; no token is hard-coded.
+5. `config.json` controls categories, weights, exclusions, featured projects and overrides.
+6. `portfolio/` is a real JavaScript dashboard. Copy it to the `shubham-k-jha.github.io` repository if you want the interactive layer on your public website.
 
-- Profile: https://github.com/shubham-k-jha
-- Website: https://shubham-k-jha.github.io/
-- Website repository: https://github.com/shubham-k-jha/shubham-k-jha.github.io
-- Pong: https://shubham-k-jha.github.io/pong/
-- Neon Chess: https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/
+## Local test
 
-## What changed in v4
+```bash
+python3 generate_readme.py
+```
 
-The README was reorganized from a CV-style sequence into a portfolio experience:
+## Windows CMD upload
 
-1. Start Here
-2. Featured Work
-3. Game Lab
-4. Skills → Projects
-5. Research
-6. Now
-7. How I Build
-8. Journey
-9. Digital Space
-10. GitHub Dashboard
-11. Fun Zone
-12. Connect
+```bat
+git clone https://github.com/shubham-k-jha/shubham-k-jha.git
+cd shubham-k-jha
+:: copy the package files into this folder
+git add .
+git commit -m "Rebuild portfolio automation"
+git push origin main
+```
 
-Details that would otherwise create a wall of text are inside `<details>` blocks and open only when clicked.
-
-## Rainbow visual system
-
-The profile now deliberately uses a broader rainbow palette: red, orange, yellow, green, cyan/blue, indigo/purple and pink. It is used through badges, emoji navigation, CTAs and the footer rather than applying a single color everywhere.
-
-## Skills → Projects
-
-The visible skills section explicitly links each skill to repositories where it is actually demonstrated. This prevents a recruiter from seeing a skill with no evidence behind it.
-
-## Game Lab
-
-Games are separated from professional projects:
-
-- Pong → https://shubham-k-jha.github.io/pong/
-- Neon Chess → https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/
-
-## GitHub limitation
-
-GitHub profile READMEs support Markdown/HTML but not arbitrary JavaScript or custom CSS. Therefore this version uses compatible tables, links, badges and collapsible sections. The full interactive portfolio should remain on GitHub Pages.
-
-## Upload
-
-Replace the existing `README.md` in the `shubham-k-jha` profile repository with this version. Keep the `.github`, `data`, and `config.yaml` files if you want to retain the portfolio-system structure.
+If your profile repo uses another default branch, replace `main` with that branch.

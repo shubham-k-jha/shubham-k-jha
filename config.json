@@ -1,0 +1,28 @@
+{
+  "username": "shubham-k-jha",
+  "profile_url": "https://github.com/shubham-k-jha",
+  "website_url": "https://shubham-k-jha.github.io/",
+  "featured": ["solar-ar-kutsenko-ml", "superstore-analysis", "ecommerce-sales-analysis", "online-retail-analytics"],
+  "exclude": [],
+  "classification": {"weights": {"topics": 0.4, "name": 0.2, "description": 0.2, "readme": 0.1, "languages": 0.1}, "minimum_score": 0.22},
+  "categories": {
+    "data_analytics": {"label":"📊 Data Analytics","keywords":["data-analysis","analytics","eda","business-analysis","sales-analysis","kpi","customer-analysis","revenue-analysis"]},
+    "data_science": {"label":"🤖 Data Science & ML","keywords":["machine-learning","data-science","ml","sklearn","scikit-learn","xgboost","classification","regression","prediction","feature-engineering","shap"]},
+    "sql": {"label":"🗄️ SQL & Databases","keywords":["sql","postgresql","mysql","sqlite","database","cte","window-functions","query"]},
+    "bi": {"label":"📈 BI & Visualization","keywords":["power-bi","powerbi","tableau","dashboard","visualization","matplotlib","seaborn","plotly"]},
+    "python": {"label":"🐍 Python & Automation","keywords":["python","pandas","numpy","scipy","automation","streamlit"]},
+    "research": {"label":"🔬 Research & Scientific Computing","keywords":["solar","solar-physics","hmi","aia","goes","scientific","astrophysics","sunpy","astropy","research","magnetic-field"]},
+    "cloud": {"label":"☁️ Cloud & Deployment","keywords":["aws","cloud","deployment","streamlit","github-pages","api"]},
+    "learning": {"label":"📚 Learning & Experiments","keywords":["learning","practice","tutorial","experiment","course","notes"]}
+  },
+  "overrides": {
+    "solar-ar-kutsenko-ml": ["research","data_science","python"],
+    "superstore-analysis": ["data_analytics","sql","bi","python"],
+    "ecommerce-sales-analysis": ["data_analytics","sql","python"],
+    "online-retail-analytics": ["data_analytics","data_science","python"]
+  },
+  "games": [
+    {"name":"Neon Pong","live":"https://shubham-k-jha.github.io/pong/","repo":"https://github.com/shubham-k-jha/pong","icon":"🏓"},
+    {"name":"Neon Chess","live":"https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/","repo":"https://github.com/shubham-k-jha/Neon-Chess-Chess-vs-AI","icon":"♟️"}
+  ]
+}

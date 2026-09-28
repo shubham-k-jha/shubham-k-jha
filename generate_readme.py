@@ -1,212 +1,60 @@
 #!/usr/bin/env python3
-"""
-Generate a GitHub profile README from live public repository metadata.
-
-Requirements:
-  pip install requests pyyaml
-
-Environment:
-  GITHUB_TOKEN (recommended in GitHub Actions; public unauthenticated calls
-  also work but have lower API limits)
-
-Run:
-  python generate_readme.py
-"""
-
-from __future__ import annotations
-import os, re, json
+import json, os, sys, urllib.request
 from pathlib import Path
-from typing import Any
-import requests
-import yaml
+ROOT=Path(__file__).parent
+CFG=json.loads((ROOT/'config.json').read_text())
+CACHE=ROOT/'data/repositories.json'
 
-ROOT = Path(__file__).resolve().parent
-CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text())
-README_TEMPLATE = (ROOT / "README.template.md").read_text()
-OUT = ROOT / "README.md"
+def get(url):
+    req=urllib.request.Request(url,headers={'Accept':'application/vnd.github+json','User-Agent':'shubham-k-jha-profile-generator'})
+    if os.getenv('GITHUB_TOKEN'): req.add_header('Authorization','Bearer '+os.getenv('GITHUB_TOKEN'))
+    with urllib.request.urlopen(req,timeout=30) as r: return json.load(r)
 
-API = "https://api.github.com"
-USERNAME = CONFIG["username"]
-WEIGHTS = CONFIG["classification"]["weights"]
-THRESHOLD = float(CONFIG["classification"].get("threshold", 0.35))
-CATEGORIES = CONFIG["categories"]
-OVERRIDES = CONFIG.get("overrides", {})
-EXCLUDE = set(CONFIG.get("exclude", []))
-
-session = requests.Session()
-session.headers.update({"Accept": "application/vnd.github+json"})
-if os.getenv("GITHUB_TOKEN"):
-    session.headers["Authorization"] = f"Bearer {os.environ['GITHUB_TOKEN']}"
-
-
-def api_get(url: str, **params) -> Any:
-    r = session.get(url, params=params, timeout=30)
-    r.raise_for_status()
-    return r.json()
-
-
-def get_repositories() -> list[dict]:
-    repos = []
-    page = 1
-    while True:
-        batch = api_get(f"{API}/users/{USERNAME}/repos", per_page=100, page=page, type="all", sort="updated")
-        if not batch:
-            break
-        repos.extend(batch)
-        if len(batch) < 100:
-            break
-        page += 1
-    return repos
-
-
-def readme_text(repo: dict) -> str:
+def repos():
     try:
-        r = session.get(repo["contents_url"].replace("{+path}", "/README.md"), timeout=20)
-        if r.status_code != 200:
-            return ""
-        import base64
-        return base64.b64decode(r.json().get("content", "")).decode("utf-8", errors="ignore")[:12000]
-    except requests.RequestException:
-        return ""
+        out=[]; page=1
+        while True:
+            b=get(f"https://api.github.com/users/{CFG['username']}/repos?per_page=100&page={page}&sort=updated")
+            if not b: break
+            out+=b
+            if len(b)<100: break
+            page+=1
+        CACHE.write_text(json.dumps(out,indent=2))
+        return out
+    except Exception as e:
+        print('[WARN] API unavailable; using cached data:',e,file=sys.stderr)
+        return json.loads(CACHE.read_text())
 
+def classify(r):
+    if r['name'] in CFG['overrides']: return CFG['overrides'][r['name']]
+    text=' '.join([r.get('name',''),r.get('description','') or '', ' '.join(r.get('topics') or []),r.get('language','') or '']).lower()
+    result=[]
+    for k,v in CFG['categories'].items():
+        hits=sum(kw.lower() in text for kw in v['keywords'])
+        if hits/max(3,len(v['keywords'])) >= CFG['classification']['minimum_score']: result.append(k)
+    return result[:4]
 
-def norm(x: Any) -> str:
-    return str(x or "").lower().replace("_", "-").strip()
-
-
-def category_score(repo: dict, keyword: str, readme: str) -> float:
-    kw = norm(keyword)
-    name = norm(repo["name"])
-    desc = norm(repo.get("description"))
-    topics = [norm(x) for x in repo.get("topics", [])]
-    languages = [norm(x) for x in (repo.get("language") or "").split(",") if x]
-    # For a single primary language, the language signal is intentionally weak.
-    fields = {
-        "topics": " ".join(topics),
-        "name": name,
-        "description": desc,
-        "readme": norm(readme),
-        "languages": " ".join(languages),
-    }
-    score = 0.0
-    for field, text in fields.items():
-        if kw and kw in text:
-            score += WEIGHTS[field]
-    return score
-
-
-def classify(repo: dict, readme: str) -> list[str]:
-    name = repo["name"]
-    if name in OVERRIDES and "categories" in OVERRIDES[name]:
-        return OVERRIDES[name]["categories"]
-
-    scores = {}
-    for slug, meta in CATEGORIES.items():
-        scores[slug] = max(
-            (category_score(repo, kw, readme) for kw in meta.get("keywords", [])),
-            default=0.0,
-        )
-
-    detected = [slug for slug, score in scores.items() if score >= THRESHOLD]
-
-    # Explicit known-project mappings are a safety net when repositories
-    # have sparse/missing topics or descriptions. Automatic classification
-    # still remains the primary mechanism for new repositories.
-    known_map = CONFIG.get("known_category_map", {})
-    for slug, names in known_map.items():
-        if name in names and slug not in detected:
-            detected.append(slug)
-
-    return detected
-
-
-def quality_score(repo: dict) -> float:
-    # Ranking aid only; not a quality verdict.
-    return (
-        (1.0 if repo.get("has_wiki") is not None else 0.0) * 0.05
-        + min(len(repo.get("description") or "") / 120, 1) * 0.20
-        + min(repo.get("stargazers_count", 0) / 10, 1) * 0.10
-        + min(repo.get("forks_count", 0) / 5, 1) * 0.05
-        + (0.6 if not repo.get("archived") else 0.0) * 0.60
-    )
-
-
-def card(repo: dict) -> str:
-    name = repo["name"]
-    desc = (repo.get("description") or "No repository description provided.").replace("|", "\\|")
-    lang = repo.get("language") or "—"
-    topics = " · ".join(repo.get("topics", [])[:4])
-    meta = f"`{lang}`"
-    if topics:
-        meta += f" · {topics}"
-    links = f"[View Repository →]({repo['html_url']})"
-    if repo.get("homepage"):
-        links += f" · [Live Demo →]({repo['homepage']})"
-    return (
-        f"**📦 [{name}]({repo['html_url']})**  \n"
-        f"{desc}  \n"
-        f"{meta}  \n"
-        f"⭐ {repo.get('stargazers_count',0)} · 🔀 {repo.get('forks_count',0)} · {links}"
-    )
-
-
-def replace_marker(text: str, marker: str, content: str) -> str:
-    start = f"<!-- AUTO:{marker}:START -->"
-    end = f"<!-- AUTO:{marker}:END -->"
-    pattern = re.compile(re.escape(start) + r".*?" + re.escape(end), re.S)
-    replacement = f"{start}\n{content}\n{end}"
-    return pattern.sub(replacement, text)
-
+def card(r):
+    title=r['name'].replace('-',' ').replace('_',' ').title()
+    return f"### 📦 [{title}]({r['html_url']})\n{r.get('description') or 'GitHub repository'}\n\n`{r.get('language') or '—'}` · ⭐ {r.get('stargazers_count',0)} · 🍴 {r.get('forks_count',0)}"
 
 def main():
-    repos = get_repositories()
-    live = []
-    for repo in repos:
-        if repo.get("fork") or repo.get("name") in EXCLUDE:
-            continue
-        repo["topics"] = api_get(f"{API}/repos/{USERNAME}/{repo['name']}/topics").get("names", [])
-        rm = readme_text(repo)
-        repo["categories"] = classify(repo, rm)
-        repo["featured"] = bool(OVERRIDES.get(repo["name"], {}).get("featured", False))
-        live.append(repo)
-
-    text = README_TEMPLATE.replace("USERNAME", USERNAME)
-
-    featured = [r for r in live if r["featured"]]
-    featured.sort(key=quality_score, reverse=True)
-    featured_md = "\n\n".join(card(r) for r in featured[:6]) or "_No featured repositories configured yet._"
-    text = replace_marker(text, "FEATURED", featured_md)
-
-    for slug in CATEGORIES:
-        items = [r for r in live if slug in r.get("categories", [])]
-        items.sort(key=quality_score, reverse=True)
-        body = "\n\n".join(card(r) for r in items)
-        if not body:
-            body = (
-                f"_No repository matched automatically yet._  \\n"
-                f"[🔎 Search my GitHub for {CATEGORIES[slug]['title']} →]"
-                f"(https://github.com/{USERNAME}?tab=repositories&q={slug.replace('_','%20')})"
-            )
-        else:
-            body += (
-                f"\\n\\n[🔎 Explore all repositories in this category →]"
-                f"(https://github.com/{USERNAME}?tab=repositories)"
-            )
-        text = replace_marker(text, f"CATEGORY:{slug}", body)
-
-    active = [
-        r for r in live
-        if any(k in " ".join([r["name"], r.get("description") or "", *r.get("topics", [])]).lower()
-               for k in ["active", "in-progress", "wip", "learning"])
-    ]
-    active.sort(key=lambda r: r.get("pushed_at") or "", reverse=True)
-    active_md = "\n\n".join(card(r) for r in active[:8]) or "_No repositories currently match the active/WIP signals._"
-    text = replace_marker(text, "ACTIVE", active_md)
-
-    (ROOT / "data/repositories.json").write_text(json.dumps(live, indent=2, ensure_ascii=False))
-    OUT.write_text(text)
-    print(f"Generated {OUT} from {len(live)} public repositories.")
-
-
-if __name__ == "__main__":
-    main()
+    rs=[r for r in repos() if r.get('name') not in CFG['exclude']]
+    by={k:[] for k in CFG['categories']}
+    for r in rs:
+        for c in classify(r): by[c].append(r)
+    lookup={r['name']:r for r in rs}
+    featured=[lookup[n] for n in CFG['featured'] if n in lookup]
+    cards=[]
+    for k,v in CFG['categories'].items(): cards.append(f"<td align='center' width='25%'><h3>{v['label']}</h3><b>{len(by[k])} project{'s' if len(by[k])!=1 else ''}</b><br><a href='#cat-{k}'>EXPLORE →</a></td>")
+    nav='<tr>'+''.join(cards[:4])+'</tr><tr>'+''.join(cards[4:])+'</tr>'
+    fh='\n\n'.join(card(r) for r in featured)
+    sections=[]
+    for k,v in CFG['categories'].items():
+        rows='\n'.join(f"| [{r['name']}]({r['html_url']}) | {r.get('description') or 'Repository'} |" for r in by[k]) or '| — | No repositories currently match. |'
+        sections.append(f"<a id='cat-{k}'></a>\n## {v['label']}\n\n| Repository | Description |\n|---|---|\n{rows}")
+    games='\n'.join(f"<td align='center'><h3>{g['icon']} {g['name']}</h3><a href='{g['live']}'><b>▶ PLAY LIVE</b></a><br><a href='{g['repo']}'>SOURCE CODE →</a></td>" for g in CFG['games'])
+    readme=f"""# 👋 Shubham Jha\n\n### `Research → Data Analytics → Data Science`\n\n**Data Analyst · Python & SQL · Power BI · Scientific Computing · Aspiring Data Scientist**\n\n<p><a href='{CFG['website_url']}'>🌐 Portfolio</a> · <a href='{CFG['profile_url']}'>💻 GitHub</a> · <a href='https://www.linkedin.com/in/shubham-k-jha/'>💼 LinkedIn</a> · <a href='mailto:sjha31190@gmail.com'>✉️ Email</a></p>\n\n> I turn messy data into analysis, models, dashboards and reproducible workflows — combining scientific research discipline with practical analytics.\n\n---\n\n## ⚡ Explore the Portfolio\n\n<table width='100%'>{nav}</table>\n\n---\n\n## 🎯 What I Build\n\n| Track | Focus |\n|---|---|\n| 📊 **Analytics** | EDA, KPIs, business questions, customer/revenue analysis |\n| 🗄️ **SQL** | Joins, CTEs, window functions, cleaning, relational analysis |\n| 📈 **BI** | Power BI dashboards, visual storytelling, reporting |\n| 🤖 **Data Science** | Classification, regression, feature engineering, evaluation |\n| 🐍 **Python** | Pandas, NumPy, SciPy, automation, reproducible pipelines |\n| 🔬 **Research** | Solar active regions, scientific datasets, statistics, time series |\n\n---\n\n## ⭐ Featured Work\n\n{fh}\n\n---\n\n## 🧰 Stack\n\n**Data:** Python · Pandas · NumPy · SciPy · SQL  \n**BI / Viz:** Power BI · Matplotlib · Seaborn · Plotly  \n**Databases:** PostgreSQL · MySQL · SQLite  \n**ML:** Scikit-learn · XGBoost · SHAP  \n**Big Data / Apps:** PySpark · Apache Spark · Streamlit · AWS fundamentals  \n**Scientific:** SunPy · Astropy · IDL · Jupyter · Linux  \n**Workflow:** Git · GitHub · GitHub Actions\n\n---\n\n## 🎮 Game Lab\n\n<table width='100%'><tr>{games}</tr></table>\n\n---\n\n## 🔬 Research → Data\n\nMy research work is built around large scientific datasets, quantitative analysis, visualization and domain-informed modelling. The same workflow carries into analytics:\n\n**Question → Clean → Explore → Validate → Model → Explain → Ship**\n\n---\n\n## 🚀 Current Direction\n\n**Target:** Data Analyst · BI / Business Analyst · Research Data Analyst · Data Science roles  \n**Strengthening:** Advanced SQL · Machine Learning · PySpark / Spark · Statistics · AWS · Data Engineering fundamentals\n\n---\n\n## 📚 Live Repository Map\n\nThese sections are generated from GitHub repository metadata. Explicit overrides in `config.json` take precedence.\n\n{'\n\n'.join(sections)}\n\n---\n\n## 🧭 Career Snapshot\n\n**Physics → Scientific Research → Research Data Analysis → Data Analytics → Data Science**\n\nM.Sc. Physics · GATE (Physics) · Research experience at Indian Institute of Astrophysics and NIT Delhi\n\n---\n\n## 🛠️ Automation\n\n`GitHub API → metadata → classifier → overrides → generated README → GitHub Actions`\n\n- `generate_readme.py` — actual generator\n- `config.json` — weights, categories, overrides, featured projects\n- `data/repositories.json` — cached API fallback\n- `.github/workflows/update-readme.yml` — scheduled + manual refresh\n- `portfolio/` — real JavaScript dashboard for category filtering\n\n---\n\n## 🤝 Connect\n\nOpen to opportunities in **Data Analytics, BI, Research Data Analysis, Data Science and related data roles**.\n\n**🌐 Portfolio:** {CFG['website_url']}  \n**💻 GitHub:** {CFG['profile_url']}  \n**💼 LinkedIn:** https://www.linkedin.com/in/shubham-k-jha/  \n**✉️ Email:** sjha31190@gmail.com\n\n<sub>Generated from GitHub metadata with human-controlled overrides.</sub>\n"""
+    (ROOT/'README.md').write_text(readme)
+    print(f'Generated README from {len(rs)} repositories.')
+if __name__=='__main__': main()
