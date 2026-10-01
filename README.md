@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:111827&height=150&section=header&text=SHUBHAM%20JHA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE%20%7C%20SCIENTIFIC%20COMPUTING&descAlignY=64&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:111827&height=100&section=header&text=SHUBHAM%20JHA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE%20%7C%20SCIENTIFIC%20COMPUTING&descAlignY=65&descSize=13"/>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=950&lines=Research+%E2%86%92+Data+Analytics+%E2%86%92+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Scientific+Computing+%7C+Business+Analytics+%7C+Visualization" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=Research+%E2%86%92+Data+Analytics+%E2%86%92+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Scientific+Computing+%7C+Business+Analytics+%7C+Visualization" />
 
 </div>
-
 ---
 
 <table>
@@ -267,25 +264,6 @@ Interactive job-search and matching workflow.
 
 </tr>
 </table>
-
----
-
----
-
-# 🚀 CURRENTLY BUILDING
-
-<table>
-<tr>
-<td align="center" width="20%">🗄️<br><b>ADVANCED SQL</b></td>
-<td align="center" width="20%">🤖<br><b>MACHINE LEARNING</b></td>
-<td align="center" width="20%">⚡<br><b>PYSPARK</b></td>
-<td align="center" width="20%">☁️<br><b>AWS</b></td>
-<td align="center" width="20%">📐<br><b>STATISTICS</b></td>
-</tr>
-</table>
-
----
-
 ---
 
 # 🧭 THE JOURNEY
@@ -300,8 +278,6 @@ Interactive job-search and matching workflow.
 ---
 
 # 📬 LET'S CONNECT
-
-**🌐 Portfolio:** [https://shubham-k-jha.github.io/](https://shubham-k-jha.github.io/)
 
 <div align="center">
 
