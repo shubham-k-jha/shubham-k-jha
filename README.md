@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=Research+%E2%86%92+Data+Analytics+%E2%86%92+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Scientific+Computing+%7C+Business+Analytics+%7C+Visualization" />
 
 </div>
----
 
 <table>
 <tr>
