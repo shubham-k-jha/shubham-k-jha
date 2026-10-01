@@ -397,7 +397,23 @@ Interactive job-search and matching workflow.
 ### 🔝 TOP CONTRIBUTED REPOSITORIES
 ![](https://github-contributor-stats.vercel.app/api?username=shubham-k-jha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![Profile Views](https://komarev.com/ghpvc/?username=shubham-k-jha&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+---## 📊 GitHub Profile Analytics
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <img
+    src="https://github-profile-analytics-rho.vercel.app/api/count?username=shubham-k-jha&label=PROFILE%20VIEWS"
+    alt="GitHub Profile Views"
+  />
+</p>
+
+<p align="left">
+  <a href="https://github-profile-analytics-rho.vercel.app/dashboard.html">
+    <img
+      src="https://img.shields.io/badge/📊_View_GitHub_Analytics-Dashboard-blue?style=for-the-badge"
+      alt="View GitHub Analytics Dashboard"
+    />
+  </a>
+</p>
+
+> Live analytics for my GitHub profile, including profile views, repositories, stars, forks, followers, programming languages, top repositories, and recent public activity.
+
