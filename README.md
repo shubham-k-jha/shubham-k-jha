@@ -1,54 +1,61 @@
 <div align="center">
 
 <!-- ========================================================= -->
-<!--                     PROFILE HEADER                        -->
+<!--                  MINION PROFILE HEADER                    -->
 <!-- ========================================================= -->
 
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+
+<td width="34%" align="center" valign="middle">
+
 <img
-  src="./assets/github-header.png"
-  width="100%"
-  alt="Shubham Kumar Jha — Data Analytics, Data Science and Scientific Research"
+  src="https://toppng.com/uploads/preview/minions-2-characters-minions-bob-kevin-and-stuart-11563633836o3joutplk0.png"
+  width="300"
+  alt="Minions"
 />
 
-<br>
+</td>
 
-<h2>👋 Welcome to my GitHub</h2>
+<td width="66%" align="center" valign="middle">
+
+<h1>SHUBHAM KUMAR JHA</h1>
+
+<h3>Data Analytics • Data Science • Scientific Research</h3>
 
 <p>
-  <b>Data Analytics</b> ·
-  <b>Data Science</b> ·
-  <b>Scientific Research</b>
+  <b>DATA</b> → <b>ANALYZE</b> → <b>BUILD</b> → <b>IMPACT</b>
 </p>
 
 <p>
-  I build data-driven projects, analytical dashboards,<br>
-  machine-learning solutions, and scientific data applications.
+  Turning data into insights,<br>
+  models into decisions, and research into solutions.
 </p>
 
 <br>
 
 <a href="https://shubham-k-jha.github.io/">
-  <img
-    src="https://img.shields.io/badge/🌐_Portfolio-Visit-FFD54F?style=for-the-badge&labelColor=FFFFFF&color=FFD54F"
-    alt="Portfolio"
-  />
-</a>
-&nbsp;
-<a href="https://github.com/shubham-k-jha">
-  <img
-    src="https://img.shields.io/badge/💻_GitHub-Explore-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=374151"
-    alt="GitHub"
-  />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/shubham-k-jha/">
-  <img
-    src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT-FFD54F?style=for-the-badge&labelColor=FFFFFF" alt="Portfolio"/>
 </a>
 
-<br><br>
+&nbsp;
+
+<a href="https://github.com/shubham-k-jha">
+  <img src="https://img.shields.io/badge/💻_GITHUB-EXPLORE-172033?style=for-the-badge&labelColor=FFFFFF" alt="GitHub"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/shubham-k-jha/">
+  <img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 </div>
 
@@ -88,11 +95,12 @@ My background in physics and solar research has given me a strong foundation in 
 
 I am now applying that analytical approach to:
 
-**📊 Data Analytics · Data Science · Research**
+**📊 Data Analytics • Data Science • Scientific Research**
 
 </td>
 
 <td width="42%" valign="top">
+
 
 # 💻 TECH STACK
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
