@@ -1,61 +1,41 @@
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                  MINION PROFILE HEADER                    -->
-<!-- ========================================================= -->
-
-<table width="100%" cellpadding="0" cellspacing="0">
+<table width="100%">
 <tr>
 
-<td width="34%" align="center" valign="middle">
+<!-- LEFT: 3D CARTOON -->
+
+<td width="40%" align="center" valign="middle">
 
 <img
-  src="https://toppng.com/uploads/preview/minions-2-characters-minions-bob-kevin-and-stuart-11563633836o3joutplk0.png"
-  width="300"
-  alt="Minions"
+src="./assets/github-header.png"
+width="300"
+alt="Shubham Kumar Jha - 3D cartoon developer"
 />
 
 </td>
 
-<td width="66%" align="center" valign="middle">
+<!-- RIGHT: PROFILE CONTENT -->
 
-<h1>SHUBHAM KUMAR JHA</h1>
+<td width="60%" align="left" valign="middle">
 
-<h3>Data Analytics • Data Science • Scientific Research</h3>
+<h1>👋 Welcome to my GitHub</h1>
+
+<h2>Shubham Kumar Jha</h2>
+
+<h3>
+Data Analytics · Data Science · Scientific Computing
+</h3>
 
 <p>
-  <b>DATA</b> → <b>ANALYZE</b> → <b>BUILD</b> → <b>IMPACT</b>
+I build data-driven projects, analytical dashboards,<br>
+machine-learning solutions, and scientific data applications.
 </p>
-
-<p>
-  Turning data into insights,<br>
-  models into decisions, and research into solutions.
-</p>
-
-<br>
-
-<a href="https://shubham-k-jha.github.io/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT-FFD54F?style=for-the-badge&labelColor=FFFFFF" alt="Portfolio"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/shubham-k-jha">
-  <img src="https://img.shields.io/badge/💻_GITHUB-EXPLORE-172033?style=for-the-badge&labelColor=FFFFFF" alt="GitHub"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/shubham-k-jha/">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-0A66C2?style=for-the-badge" alt="LinkedIn"/>
-</a>
 
 </td>
 
 </tr>
 </table>
-
-<br>
 
 </div>
 
