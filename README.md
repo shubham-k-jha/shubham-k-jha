@@ -19,6 +19,8 @@
 
 <h1>👋 Welcome to my GitHub</h1>
 
+<h2>Shubham Kumar Jha</h2>
+
 <h3>
 Data Analytics · Data Science · Scientific Computing
 </h3>
@@ -28,48 +30,7 @@ I build data-driven projects, analytical dashboards,<br>
 machine-learning solutions, and scientific data applications.
 </p>
 
-<p>
-🐍 <b>Python</b> ·
-🗄️ <b>SQL</b> ·
-📊 <b>Power BI</b> ·
-🤖 <b>Machine Learning</b> ·
-📈 <b>Data Visualization</b>
-</p>
-
-<br>
-
-<a href="https://shubham-k-jha.github.io/">
-  <img
-    src="https://img.shields.io/badge/🌐_Portfolio-Visit-FFD54F?style=for-the-badge&labelColor=FFFFFF&color=FFD54F"
-    alt="Portfolio"
-  />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/shubham-k-jha">
-  <img
-    src="https://img.shields.io/badge/💻_Projects-Explore-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=374151"
-    alt="Projects"
-  />
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/shubham-k-jha/">
-  <img
-    src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-</td>
-
-</tr>
-</table>
-
 </div>
-
 
 # 🌐 SOCIALS
 
