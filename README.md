@@ -32,11 +32,6 @@ I build data-driven projects, analytical dashboards,<br>
 machine-learning solutions, and scientific data applications.
 </p>
 
-</td>
-
-</tr>
-</table>
-
 </div>
 
 🌐 SOCIALS
