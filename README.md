@@ -1,40 +1,66 @@
 <div align="center">
 
+<table width="100%">
+<tr>
+
+<!-- LEFT: 3D CARTOON -->
+<td width="40%" align="center" valign="middle">
+
+<img
+  src="./assets/github-header.png"
+  width="300"
+  alt="Shubham Kumar Jha - 3D cartoon developer"
+/>
+
+</td>
+
+<!-- RIGHT: PROFILE CONTENT -->
+<td width="60%" align="left" valign="middle">
+
+<h1>👋 Welcome to my GitHub</h1>
+
+<h3>
+Data Analytics · Data Science · Scientific Computing
+</h3>
+
+<p>
+I build data-driven projects, analytical dashboards,<br>
+machine-learning solutions, and scientific data applications.
+</p>
+
+<br>
+
+<a href="https://shubham-k-jha.github.io/">
   <img
-    src="./assets/github-header-3d-cartoon.png"
-    width="100%"
-    alt="Shubham Kumar Jha - 3D cartoon developer workspace"
+    src="https://img.shields.io/badge/🌐_Portfolio-Visit-FFD54F?style=for-the-badge&labelColor=FFFFFF&color=FFD54F"
+    alt="Portfolio"
   />
+</a>
 
-  <br><br>
+&nbsp;
 
-  <h2>👋 Welcome to my GitHub</h2>
+<a href="https://github.com/shubham-k-jha">
+  <img
+    src="https://img.shields.io/badge/💻_Projects-Explore-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=374151"
+    alt="Projects"
+  />
+</a>
 
-  <p>
-    I build data-driven projects, analytical dashboards,<br>
-    machine-learning solutions, and scientific data applications.
-  </p>
+<br><br>
 
-  <br>
+<a href="https://www.linkedin.com/in/shubham-k-jha/">
+  <img
+    src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
-  <a href="https://shubham-k-jha.github.io/">
-    <img
-      src="https://img.shields.io/badge/🌐_Portfolio-Visit-FFD54F?style=for-the-badge&labelColor=FFFFFF&color=FFD54F"
-      alt="Portfolio"
-    />
-  </a>
+</td>
 
-  &nbsp;
-
-  <a href="https://github.com/shubham-k-jha">
-    <img
-      src="https://img.shields.io/badge/💻_Projects-Explore-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=374151"
-      alt="GitHub Projects"
-    />
-  </a>
+</tr>
+</table>
 
 </div>
-
 # 🌐 SOCIALS
 
 <div align="center">
