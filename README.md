@@ -35,7 +35,7 @@
   <a href="https://shubham-k-jha.github.io/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-FFD54F?style=for-the-badge&labelColor=FFFFFF&color=FFD54F"/>
   </a>
-  <a href="https://github.com/shubhamkjha-datascience">
+  <a href="https://github.com/shubham-k-jha">
     <img src="https://img.shields.io/badge/💻_Projects-Explore-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=374151"/>
   </a>
 
