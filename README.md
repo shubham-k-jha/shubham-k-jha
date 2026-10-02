@@ -1,14 +1,27 @@
-<div align="center">
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+# 👋 Hi, I'm Shubham Kumar Jha
+
+### Data Analytics · Data Science · Scientific Research
+
+I build data-driven projects, analytical dashboards,
+machine-learning solutions and scientific data applications.
+
+</td>
+
+<td width="35%" align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=gradient&customColorList=12,20,24&text=SHUBHAM%20KUMAR%20JHA&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE%20%7C%20SCIENTIFIC%20RESEARCH&descSize=17&descAlignY=70&animation=fadeIn"
-width="100%"
-alt="Shubham Kumar Jha — Data Analytics, Data Science and Scientific Research"
+  src="https://toppng.com/uploads/preview/minions-png-transparent-image-minion-stuart-11562979774dj95rhdovq.png"
+  width="220"
+  alt="3D Minion"
 />
 
-</div>
-
-<br>
+</td>
+</tr>
+</table>
 
 ## 👋 Welcome to my GitHub
 
