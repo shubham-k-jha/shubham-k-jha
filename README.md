@@ -1,36 +1,16 @@
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                  MINION PROFILE HEADER                    -->
-<!-- ========================================================= -->
-
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-
-<td width="34%" align="center" valign="middle">
-
 <img
-  src="https://toppng.com/uploads/preview/minions-2-characters-minions-bob-kevin-and-stuart-11563633836o3joutplk0.png"
-  width="300"
-  alt="Minions"
+src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=gradient&customColorList=12,20,24&text=SHUBHAM%20KUMAR%20JHA&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE%20%7C%20SCIENTIFIC%20RESEARCH&descSize=17&descAlignY=70&animation=fadeIn"
+width="100%"
+alt="Shubham Kumar Jha — Data Analytics, Data Science and Scientific Research"
 />
 
-</td>
+</div>
 
-<td width="66%" align="center" valign="middle">
+<br>
 
-<h1>SHUBHAM KUMAR JHA</h1>
-
-<h3>Data Analytics • Data Science • Scientific Research</h3>
-
-<p>
-  <b>DATA</b> → <b>ANALYZE</b> → <b>BUILD</b> → <b>IMPACT</b>
-</p>
-
-<p>
-  Turning data into insights,<br>
-  models into decisions, and research into solutions.
-</p>
+## 👋 Welcome to my GitHub
 
 <br>
 
