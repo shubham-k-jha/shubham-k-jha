@@ -1,14 +1,14 @@
 <div align="center">
 
 <img
-  src="https://toppng.com/uploads/preview/minions-png-transparent-image-minion-stuart-11562979774dj95rhdovq.png"
-  width="220"
+  src="https://w7.pngwing.com/pngs/965/377/png-transparent-minions-bob-the-minion-stuart-the-minion-kevin-the-minion-evil-minion-minions-heroes-3d-film-glasses.png"
+  width="260"
   alt="3D Minion"
 />
 
 <h1>👋 Welcome to my GitHub</h1>
 
-<h3>Shubham Kumar Jha</h3>
+<h2>Shubham Kumar Jha</h2>
 
 <p>
   <b>Data Analytics</b> ·
