@@ -1,14 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:111827&height=100&section=header&text=SHUBHAM%20JHA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE%20%7C%20SCIENTIFIC%20COMPUTING&descAlignY=65&descSize=13"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF8DC,35:FFE082,70:FFD54F,100:FFF3CD&height=200&section=header&text=SHUBHAM%20KUMAR%20JHA&fontSize=43&fontColor=1F2937&fontAlignY=36&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Scientific%20Computing&descAlignY=58&descSize=17&animation=fadeIn"
+    width="100%"
+  />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=Research+%E2%86%92+Data+Analytics+%E2%86%92+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Scientific+Computing+%7C+Business+Analytics+%7C+Visualization" />
+  <br>
+
+  <img 
+    src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif"
+    width="120"
+    alt="Animated Minion"
+  />
+
+  <br>
+
+  <h2>👋 Welcome to my GitHub</h2>
+
+  <p>
+    <b>Python</b> ·
+    <b>SQL</b> ·
+    <b>Power BI</b> ·
+    <b>Machine Learning</b> ·
+    <b>Data Visualization</b>
+  </p>
+
+  <p>
+    I build data-driven projects, analytical dashboards,<br>
+    machine-learning solutions, and scientific data applications.
+  </p>
+
+  <br>
+
+  <a href="https://shubham-k-jha.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-FFD54F?style=for-the-badge&labelColor=FFFFFF&color=FFD54F"/>
+  </a>
+  <a href="https://github.com/shubhamkjha-datascience">
+    <img src="https://img.shields.io/badge/💻_Projects-Explore-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=374151"/>
+  </a>
 
 </div>
-
-<table>
-<tr>
-<td width="58%" valign="top">
 
 # 🌐 SOCIALS
 
