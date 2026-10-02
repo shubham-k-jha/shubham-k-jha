@@ -279,15 +279,6 @@ Interactive job-search and matching workflow.
 </table>
 ---
 
-# 🧭 THE JOURNEY
-
-<div align="center">
-
-**🔬 Physics & Research → 📊 Scientific Data → 🐍 Python + SQL → 📈 Analytics & BI → 🤖 Applied Data Science**
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
