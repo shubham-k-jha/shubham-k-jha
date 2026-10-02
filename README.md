@@ -104,25 +104,12 @@ My background in physics and solar research has given me a strong foundation in 
 
 I am now applying that analytical approach to:
 
-**📊 Data Analytics · 🗄️ SQL · 📈 BI · 🤖 Data Science · 🐍 Python**
+**📊 Data Analytics · Data Science · Research**
 
 </td>
 
 <td width="42%" valign="top">
 
-### 🎯 TARGET ROLES
-
-```text
-DATA ANALYST
-BI / BUSINESS ANALYST
-RESEARCH DATA ANALYST
-DATA SCIENCE
-PYTHON / ANALYTICS
-```
-
-### ⚡ CURRENT FOCUS
-
-`SQL` `Machine Learning` `PySpark` `AWS` `Statistics`
 
 </td>
 </tr>
