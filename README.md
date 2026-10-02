@@ -75,10 +75,12 @@ PYTHON / ANALYTICS
 
 ![Astropy](https://img.shields.io/badge/Astropy-2C3E50.svg?style=for-the-badge&logo=python&logoColor=white) ![SunPy](https://img.shields.io/badge/SunPy-0B5A9C.svg?style=for-the-badge&logo=python&logoColor=white) ![IDL](https://img.shields.io/badge/IDL-6A1B9A.svg?style=for-the-badge&logo=gnu&logoColor=white) ![DAVE4VM](https://img.shields.io/badge/DAVE4VM-4B5563.svg?style=for-the-badge) ![SHARP](https://img.shields.io/badge/SHARP-1F2937.svg?style=for-the-badge) ![SDO%20%7C%20AIA%20%7C%20HMI](https://img.shields.io/badge/SDO%20%7C%20AIA%20%7C%20HMI-0EA5E9.svg?style=for-the-badge) ![GOES](https://img.shields.io/badge/GOES-F59E0B.svg?style=for-the-badge)
 
-# 📊 GITHUB STATS
-![](https://github-readme-stats.shion.dev/api?username=shubham-k-jha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shubham-k-jha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubham-k-jha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shubham-k-jha&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=shubham-k-jha&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubham-k-jha&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ## 🏆 GITHUB TROPHIES
 ![](https://github-profile-trophy.vercel.app/?username=shubham-k-jha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
