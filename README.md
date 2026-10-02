@@ -1,27 +1,39 @@
-<table>
-<tr>
-<td width="65%" valign="middle">
+<div align="center">
 
-# 👋 Hi, I'm Shubham Kumar Jha
+  <img
+    src="./assets/github-header-3d-cartoon.png"
+    width="100%"
+    alt="Shubham Kumar Jha - 3D cartoon developer workspace"
+  />
 
-### Data Analytics · Data Science · Scientific Research
+  <br><br>
 
-I build data-driven projects, analytical dashboards,
-machine-learning solutions and scientific data applications.
+  <h2>👋 Welcome to my GitHub</h2>
 
-</td>
+  <p>
+    I build data-driven projects, analytical dashboards,<br>
+    machine-learning solutions, and scientific data applications.
+  </p>
 
-<td width="35%" align="center">
+  <br>
 
-<img
-  src="https://toppng.com/uploads/preview/minions-png-transparent-image-minion-stuart-11562979774dj95rhdovq.png"
-  width="220"
-  alt="3D Minion"
-/>
+  <a href="https://shubham-k-jha.github.io/">
+    <img
+      src="https://img.shields.io/badge/🌐_Portfolio-Visit-FFD54F?style=for-the-badge&labelColor=FFFFFF&color=FFD54F"
+      alt="Portfolio"
+    />
+  </a>
 
-</td>
-</tr>
-</table>
+  &nbsp;
+
+  <a href="https://github.com/shubham-k-jha">
+    <img
+      src="https://img.shields.io/badge/💻_Projects-Explore-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=374151"
+      alt="GitHub Projects"
+    />
+  </a>
+
+</div>
 
 # 🌐 SOCIALS
 
