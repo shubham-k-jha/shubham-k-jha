@@ -1,17 +1,4 @@
-<table>
-<tr>
-<td width="65%" valign="middle">
-
-# 👋 Hi, I'm Shubham Jha
-
-### Data Analytics · Data Science · Scientific Research
-
-I build data-driven projects, analytical dashboards,
-machine-learning solutions and scientific data applications.
-
-</td>
-
-<td width="35%" align="center">
+<div align="center">
 
 <img
   src="https://toppng.com/uploads/preview/minions-png-transparent-image-minion-stuart-11562979774dj95rhdovq.png"
@@ -19,11 +6,17 @@ machine-learning solutions and scientific data applications.
   alt="3D Minion"
 />
 
-</td>
-</tr>
-</table>
+<h1>👋 Welcome to my GitHub</h1>
 
-## 👋 Welcome to my GitHub
+<h3>Shubham Kumar Jha</h3>
+
+<p>
+  <b>Data Analytics</b> ·
+  <b>Data Science</b> ·
+  <b>Scientific Research</b>
+</p>
+
+</div>
 
 # 🌐 SOCIALS
 
