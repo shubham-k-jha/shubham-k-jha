@@ -299,15 +299,6 @@ Interactive job-search and matching workflow.
 </table>
 ---
 
-**Data Analytics · BI · Python · SQL · Scientific Data · Applied Data Science**
-
-</div>
-
----
-
-### 🔝 TOP CONTRIBUTED REPOSITORIES
-![](https://github-contributor-stats.vercel.app/api?username=shubham-k-jha&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 📊 GitHub Analytics
 
 <p align="left">
