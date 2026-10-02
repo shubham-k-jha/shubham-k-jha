@@ -1,40 +1,66 @@
 <div align="center">
 
-<table width="100%">
+<!-- ========================================================= -->
+<!--                  MINION PROFILE HEADER                    -->
+<!-- ========================================================= -->
+
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 
-<!-- LEFT: 3D CARTOON -->
-
-<td width="40%" align="center" valign="middle">
+<td width="34%" align="center" valign="middle">
 
 <img
-src="./assets/github-header.png"
-width="300"
-alt="Shubham Kumar Jha - 3D cartoon developer"
+  src="https://toppng.com/uploads/preview/minions-2-characters-minions-bob-kevin-and-stuart-11563633836o3joutplk0.png"
+  width="300"
+  alt="Minions"
 />
 
 </td>
 
-<!-- RIGHT: PROFILE CONTENT -->
+<td width="66%" align="center" valign="middle">
 
-<td width="60%" align="left" valign="middle">
+<h1>SHUBHAM KUMAR JHA</h1>
 
-<h1>👋 Welcome to my GitHub</h1>
-
-<h2>Shubham Kumar Jha</h2>
-
-<h3>
-Data Analytics · Data Science · Scientific Computing
-</h3>
+<h3>Data Analytics • Data Science • Scientific Research</h3>
 
 <p>
-I build data-driven projects, analytical dashboards,<br>
-machine-learning solutions, and scientific data applications.
+  <b>DATA</b> → <b>ANALYZE</b> → <b>BUILD</b> → <b>IMPACT</b>
 </p>
+
+<p>
+  Turning data into insights,<br>
+  models into decisions, and research into solutions.
+</p>
+
+<br>
+
+<a href="https://shubham-k-jha.github.io/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT-FFD54F?style=for-the-badge&labelColor=FFFFFF" alt="Portfolio"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/shubham-k-jha">
+  <img src="https://img.shields.io/badge/💻_GITHUB-EXPLORE-172033?style=for-the-badge&labelColor=FFFFFF" alt="GitHub"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/shubham-k-jha/">
+  <img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 </div>
 
-🌐 SOCIALS
+
+# 🌐 SOCIALS
 
 <div align="center">
 
@@ -60,55 +86,55 @@ machine-learning solutions, and scientific data applications.
 
 </div>
 
-👋 ABOUT ME
 
-I work at the intersection of scientific research, data analytics and applied data science.
+## 👋 ABOUT ME
 
-My background in physics and solar research has given me a strong foundation in quantitative analysis, scientific datasets, statistics, visualization, time-series analysis and reproducible computational workflows.
+I work at the intersection of **scientific research, data analytics and applied data science**.
+
+My background in physics and solar research has given me a strong foundation in **quantitative analysis, scientific datasets, statistics, visualization, time-series analysis and reproducible computational workflows**.
 
 I am now applying that analytical approach to:
 
-📊 Data Analytics • Data Science • Scientific Research
+**📊 Data Analytics • Data Science • Scientific Research**
 
 </td>
 
 <td width="42%" valign="top">
 
-💻 TECH STACK
 
-                                
+# 💻 TECH STACK
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
-      
+![Astropy](https://img.shields.io/badge/Astropy-2C3E50.svg?style=for-the-badge&logo=python&logoColor=white) ![SunPy](https://img.shields.io/badge/SunPy-0B5A9C.svg?style=for-the-badge&logo=python&logoColor=white) ![IDL](https://img.shields.io/badge/IDL-6A1B9A.svg?style=for-the-badge&logo=gnu&logoColor=white) ![DAVE4VM](https://img.shields.io/badge/DAVE4VM-4B5563.svg?style=for-the-badge) ![SHARP](https://img.shields.io/badge/SHARP-1F2937.svg?style=for-the-badge) ![SDO%20%7C%20AIA%20%7C%20HMI](https://img.shields.io/badge/SDO%20%7C%20AIA%20%7C%20HMI-0EA5E9.svg?style=for-the-badge) ![GOES](https://img.shields.io/badge/GOES-F59E0B.svg?style=for-the-badge)
 
-📊 GitHub Stats:
-
-<br/>
-<br/>
-
-
-
-
-🏆 GITHUB TROPHIES
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shubham-k-jha&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=shubham-k-jha&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubham-k-jha&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
-✍️ RANDOM DEV QUOTE
+## 🏆 GITHUB TROPHIES
+![](https://github-profile-trophy.vercel.app/?username=shubham-k-jha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ RANDOM DEV QUOTE
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 
-🔥 FEATURED PROJECTS
+# 🔥 FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-☀️ Solar AR Kutsenko ML
+## ☀️ Solar AR Kutsenko ML
 
-Physics-informed machine learning for solar active regions, magnetic-flux emergence and flare productivity using Kutsenko catalogues, XGBoost, SHAP and statistical modelling.
+Physics-informed machine learning for **solar active regions, magnetic-flux emergence and flare productivity** using Kutsenko catalogues, XGBoost, SHAP and statistical modelling.
 
-STACK
+**STACK**
 
-Python Machine Learning XGBoost SHAP Statistics
+`Python` `Machine Learning` `XGBoost` `SHAP` `Statistics`
 
 <a href="https://github.com/shubham-k-jha/solar-ar-kutsenko-ml">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-4F46E5?style=for-the-badge">
@@ -118,13 +144,13 @@ Python Machine Learning XGBoost SHAP Statistics
 
 <td width="50%" valign="top">
 
-🛒 Superstore Analysis
+## 🛒 Superstore Analysis
 
-Business analytics project combining SQL + Python + Power BI to analyze transactional data and produce business insights and dashboards.
+Business analytics project combining **SQL + Python + Power BI** to analyze transactional data and produce business insights and dashboards.
 
-STACK
+**STACK**
 
-SQL Python Power BI Pandas
+`SQL` `Python` `Power BI` `Pandas`
 
 <a href="https://github.com/shubham-k-jha/superstore-analysis">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-EA580C?style=for-the-badge">
@@ -136,13 +162,13 @@ SQL Python Power BI Pandas
 <tr>
 <td valign="top">
 
-🛍️ E-Commerce Sales Analysis
+## 🛍️ E-Commerce Sales Analysis
 
-End-to-end transactional analysis using SQL and Python, with data exploration, aggregation and visualization.
+End-to-end transactional analysis using **SQL and Python**, with data exploration, aggregation and visualization.
 
-STACK
+**STACK**
 
-SQL Python Pandas Matplotlib
+`SQL` `Python` `Pandas` `Matplotlib`
 
 <a href="https://github.com/shubham-k-jha/ecommerce-sales-analysis">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge">
@@ -152,13 +178,13 @@ SQL Python Pandas Matplotlib
 
 <td valign="top">
 
-👥 Online Retail Analytics
+## 👥 Online Retail Analytics
 
-Analysis of the UCI Online Retail II dataset using Pandas and PySpark, including RFM customer segmentation and cancellation prediction with Random Forest.
+Analysis of the **UCI Online Retail II dataset** using Pandas and PySpark, including RFM customer segmentation and cancellation prediction with Random Forest.
 
-STACK
+**STACK**
 
-Python Pandas PySpark Random Forest
+`Python` `Pandas` `PySpark` `Random Forest`
 
 <a href="https://github.com/shubham-k-jha/online-retail-analytics">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-16A34A?style=for-the-badge">
@@ -168,22 +194,26 @@ Python Pandas PySpark Random Forest
 </tr>
 </table>
 
-🚀 LIVE APPS & INTERACTIVE BUILDS
+---
 
-Try the work, don't just read about it.
+---
+
+# 🚀 LIVE APPS & INTERACTIVE BUILDS
+
+> **Try the work, don't just read about it.**
 
 <table>
 <tr>
 
 <td align="center" width="33%">
 
-📈 FINANCE CALCULATOR
+### 📈 FINANCE CALCULATOR
 
 <a href="https://finance-calc-app.streamlit.app/">
 <img src="https://img.shields.io/badge/🚀_OPEN_APP-00C2FF?style=for-the-badge&labelColor=07111F">
 </a>
 
-Streamlit · Plotly · Finance
+**Streamlit · Plotly · Finance**
 
 Interactive finance calculator and dashboard.
 
@@ -191,7 +221,7 @@ Interactive finance calculator and dashboard.
 
 <td align="center" width="33%">
 
-🎯 ATS RESUME SCREENER
+### 🎯 ATS RESUME SCREENER
 
 <a href="https://ats--resume-screener.streamlit.app/">
 <img src="https://img.shields.io/badge/🚀_OPEN_APP-7C3AED?style=for-the-badge&labelColor=07111F">
@@ -201,7 +231,7 @@ Interactive finance calculator and dashboard.
 <img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-Streamlit · Resume Analytics · ATS
+**Streamlit · Resume Analytics · ATS**
 
 Interactive resume screening and analysis workflow.
 
@@ -209,13 +239,13 @@ Interactive resume screening and analysis workflow.
 
 <td align="center" width="33%">
 
-🤖 JOB AGENT
+### 🤖 JOB AGENT
 
 <a href="https://job--agent.streamlit.app/">
 <img src="https://img.shields.io/badge/🚀_OPEN_APP-FF4D6D?style=for-the-badge&labelColor=07111F">
 </a>
 
-Streamlit · Job Discovery · Automation
+**Streamlit · Job Discovery · Automation**
 
 Interactive job-search and matching workflow.
 
@@ -224,14 +254,18 @@ Interactive job-search and matching workflow.
 </tr>
 </table>
 
-🎮 GAME LAB
+---
+
+---
+
+# 🎮 GAME LAB
 
 <table>
 <tr>
 
 <td align="center" width="50%">
 
-🏓 NEON PONG
+### 🏓 NEON PONG
 
 <a href="https://shubham-k-jha.github.io/Neon-Pong">
 <img src="https://img.shields.io/badge/▶_PLAY_LIVE-FF0080?style=for-the-badge&logo=githubpages&logoColor=white">
@@ -241,13 +275,13 @@ Interactive job-search and matching workflow.
 <img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-Browser Game · JavaScript · UI
+**Browser Game · JavaScript · UI**
 
 </td>
 
 <td align="center" width="50%">
 
-♟️ NEON CHESS
+### ♟️ NEON CHESS
 
 <a href="https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/">
 <img src="https://img.shields.io/badge/▶_PLAY_LIVE-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white">
@@ -257,7 +291,7 @@ Browser Game · JavaScript · UI
 <img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-Browser Game · Chess · AI
+**Browser Game · Chess · AI**
 
 </td>
 
@@ -265,7 +299,139 @@ Browser Game · Chess · AI
 </table>
 ---
 
-📊 GitHub Analytics
+# 🧭 THE JOURNEY
+
+<div align="center">
+
+**🔬 Physics & Research → 📊 Scientific Data → 🐍 Python + SQL → 📈 Analytics & BI → 🤖 Applied Data Science**
+
+</div>
+
+---
+---
+
+# 📬 LET'S CONNECT
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td align="center" width="25%" valign="top">
+
+### 💼 PROFESSIONAL
+
+<a href="mailto:shubhamkjha.ds@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-FF4D6D?style=for-the-badge">
+</a>
+
+**Data & Analytics**
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### 🔬 RESEARCH
+
+<a href="mailto:sjha31190@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-7C3AED?style=for-the-badge">
+</a>
+
+**Research & Scientific Computing**
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### 💼 LINKEDIN
+
+<a href="https://www.linkedin.com/in/shubham-k-jha/">
+<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge">
+</a>
+
+**Professional Network**
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### 📄 CV
+
+<a href="./assets/Shubham-Jha-CV.pdf">
+<img src="https://img.shields.io/badge/VIEW_CV-111827?style=for-the-badge">
+</a>
+
+**Resume / Experience**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%" valign="top">
+
+### 🌐 PORTFOLIO
+
+<a href="https://shubham-k-jha.github.io/">
+<img src="https://img.shields.io/badge/OPEN-00C2FF?style=for-the-badge">
+</a>
+
+**Website & Projects**
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### 💻 GITHUB
+
+<a href="https://github.com/shubham-k-jha">
+<img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=for-the-badge">
+</a>
+
+**Code & Repositories**
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### 🏓 PONG
+
+<a href="https://shubham-k-jha.github.io/Neon-Pong">
+<img src="https://img.shields.io/badge/PLAY-FF0080?style=for-the-badge">
+</a>
+
+**Neon Pong**
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### ♟️ CHESS
+
+<a href="https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/">
+<img src="https://img.shields.io/badge/PLAY-FF4D00?style=for-the-badge">
+</a>
+
+**Neon Chess vs AI**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+**Data Analytics · BI · Python · SQL · Scientific Data · Applied Data Science**
+
+</div>
+
+---
+
+### 🔝 TOP CONTRIBUTED REPOSITORIES
+![](https://github-contributor-stats.vercel.app/api?username=shubham-k-jha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 📊 GitHub Analytics
 
 <p align="left">
   <img
