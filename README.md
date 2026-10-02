@@ -3,14 +3,13 @@
 <table width="100%">
 <tr>
 
-<!-- LEFT: 3D CARTOON -->
-
+<!-- LEFT: MINION GIF -->
 <td width="40%" align="center" valign="middle">
 
 <img
-src="./assets/github-header.png"
-width="300"
-alt="Shubham Kumar Jha - 3D cartoon developer"
+  src="https://cdn.dribbble.com/userupload/20549102/file/original-84432515c793dc62458aa3990c078dd2.gif"
+  width="300"
+  alt="Minion coding"
 />
 
 </td>
