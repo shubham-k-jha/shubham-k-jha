@@ -2,7 +2,7 @@
 <tr>
 <td width="65%" valign="middle">
 
-# 👋 Hi, I'm Shubham Kumar Jha
+# 👋 Hi, I'm Shubham Jha
 
 ### Data Analytics · Data Science · Scientific Research
 
@@ -24,34 +24,6 @@ machine-learning solutions and scientific data applications.
 </table>
 
 ## 👋 Welcome to my GitHub
-
-<br>
-
-<a href="https://shubham-k-jha.github.io/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT-FFD54F?style=for-the-badge&labelColor=FFFFFF" alt="Portfolio"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/shubham-k-jha">
-  <img src="https://img.shields.io/badge/💻_GITHUB-EXPLORE-172033?style=for-the-badge&labelColor=FFFFFF" alt="GitHub"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/shubham-k-jha/">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-0A66C2?style=for-the-badge" alt="LinkedIn"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-</div>
-
 
 # 🌐 SOCIALS
 
