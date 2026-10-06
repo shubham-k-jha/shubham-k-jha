@@ -175,7 +175,7 @@ Analysis of the **UCI Online Retail II dataset** using Pandas and PySpark, inclu
 <tr>
 <td colspan="2" valign="top">
 
-## 🎬 Netflix Content Intelligence v8.1
+## 🎬 Netflix Content Intelligence
 
 End-to-end Netflix Top 10 analytics covering **global and country intelligence, content lifecycle, statistical analysis, forecasting and machine learning** using official Netflix published data.
 
