@@ -1,110 +1,67 @@
-# Hi, I'm Shubham Kumar Jha 👋
+<div align="center">
 
-### Data Analyst | Business Analytics | Data Science
+# 👋 Hi, I'm **Shubham Kumar Jha**
 
-I work with **Python, SQL, Power BI, machine learning, and data engineering tools** to turn data into useful insights and solutions.
+### 📊 Data Analyst • 💼 Business Analytics • 🤖 Data Science
 
-My background is in **physics and scientific research**, where I worked with large-scale solar datasets. I now apply that analytical and research mindset to business and real-world data.
+**Turning data into insights, decisions, and useful products.**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-k-jha/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shubham-k-jha.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubham-k-jha)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkjha.ds@gmail.com)
 
-## 🛠️ Skills
-
-**Languages & Data:**  
-Python · SQL · Pandas · NumPy · PySpark
-
-**Analytics & BI:**  
-Power BI · DAX · Excel · Tableau · Data Analysis · Data Visualization
-
-**Machine Learning:**  
-Scikit-learn · XGBoost · SHAP · Forecasting · Statistics
-
-**Databases & Engineering:**  
-MySQL · PostgreSQL · SQLite · ETL/ELT · APIs · Git · Docker
-
-**Cloud & Platforms:**  
-AWS · Databricks · Streamlit · FastAPI
-
-**Scientific Computing:**  
-SunPy · Astropy · HMI · AIA · GOES · Linux
+</div>
 
 ---
 
-## 📊 Featured Projects
+## 🧰 Tech Stack
 
-### ☀️ Solar Active Region ML
-Machine learning and scientific data analysis using solar active-region datasets.
-
-→ [View Project](https://github.com/shubham-k-jha/solar-ar-kutsenko-ml)
-
-### 📈 Superstore Business Analytics
-Sales, profit, customer, product and operational analysis using business data.
-
-→ [View Project](https://github.com/shubham-k-jha/superstore-analysis)
-
-### 🛒 E-Commerce Sales Analysis
-Revenue, customer and product performance analysis.
-
-→ [View Project](https://github.com/shubham-k-jha/ecommerce-sales-analysis)
-
-### 👥 Online Retail Analytics
-Customer behaviour, segmentation and revenue analysis.
-
-→ [View Project](https://github.com/shubham-k-jha/online-retail-analytics)
-
-### 🎬 Netflix Content Analytics
-Exploration of content, genres, countries, ratings and release trends.
-
-→ [View Project](https://github.com/shubham-k-jha/netflix-content-analytics)
-
-### 💰 Customer Revenue & Churn
-Customer-level revenue, retention and churn analysis.
-
-→ [View Project](https://github.com/shubham-k-jha/Customer-Revenue-Churn)
+**🐍 Python** · **🗄️ SQL** · **📊 Power BI** · **⚡ PySpark** · **🤖 Scikit-learn** · **📈 Statistics**  
+**☁️ AWS** · **🧱 Databricks** · **🐳 Docker** · **🔌 FastAPI** · **🚀 Streamlit** · **🔧 Git**
 
 ---
 
-## 🚀 Live Projects
+## ⭐ Featured Work
 
-- [Finance Calculator](https://finance-calc-app.streamlit.app/)
-- [ATS Resume Screener](https://ats--resume-screener.streamlit.app/)
-- [Job Agent](https://job--agent.streamlit.app/)
-
----
-
-## 🔬 Research Background
-
-Worked with large-scale **SDO/HMI/AIA solar datasets**, including approximately **40 GB of solar data** and **500+ GB of HMI data across 100+ active regions**.
-
-My research experience developed a strong focus on:
-
-**Data validation · Statistical analysis · Scientific computing · Machine learning · Reproducible analysis**
+| Project | Focus |
+|---|---|
+| ☀️ [**Solar AR ML**](https://github.com/shubham-k-jha/solar-ar-kutsenko-ml) | Scientific ML · Solar Physics |
+| 📊 [**Superstore Analysis**](https://github.com/shubham-k-jha/superstore-analysis) | Business Analytics · Power BI |
+| 🛒 [**E-Commerce Analytics**](https://github.com/shubham-k-jha/ecommerce-sales-analysis) | Revenue · Customer Analytics |
+| 👥 [**Online Retail Analytics**](https://github.com/shubham-k-jha/online-retail-analytics) | Segmentation · RFM |
+| 🎬 [**Netflix Analytics**](https://github.com/shubham-k-jha/netflix-content-analytics) | Content · Trend Analysis |
+| 💰 [**Revenue & Churn**](https://github.com/shubham-k-jha/Customer-Revenue-Churn) | Retention · Customer Analytics |
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Live Apps
 
-- Advanced Machine Learning
-- Statistics
-- Deep Learning
-- Generative AI & AI Agents
-- Data Engineering
-- Databricks
-- Cloud
+**💰 [Finance Calculator](https://finance-calc-app.streamlit.app/)**  
+**📄 [ATS Resume Screener](https://ats--resume-screener.streamlit.app/)**  
+**🤖 [Job Agent](https://job--agent.streamlit.app/)**
 
 ---
 
-## 🔗 Find Me
+## 🔬 Background
 
-- **LinkedIn:** [linkedin.com/in/shubham-k-jha](https://www.linkedin.com/in/shubham-k-jha/)
-- **Portfolio:** [shubham-k-jha.github.io](https://shubham-k-jha.github.io/)
-- **GitHub:** [github.com/shubham-k-jha](https://github.com/shubham-k-jha)
-- **Email:** [shubhamkjha.ds@gmail.com](mailto:shubhamkjha.ds@gmail.com)
+Physics & solar research → **large-scale data → statistics → machine learning → analytics**
+
+Worked with **40+ GB of SDO/HMI/AIA data** and **500+ GB of HMI data across 100+ active regions**.
+
+**My approach:**  
+`Validate → Explore → Model → Test → Explain`
 
 ---
 
-### Open to opportunities
+## 🎯 Looking For
 
-I'm currently interested in **Data Analytics, Business Analytics, BI, Product Analytics, Data Science, and related roles**.
+**Data Analytics · Business Analytics · BI · Product Analytics · Data Science**
 
-If you're working on an interesting data problem, feel free to connect.
+📍 Open to opportunities, interesting projects, and teams solving real problems with data.
+
+<div align="center">
+
+### ⭐ Explore my repositories → [GitHub](https://github.com/shubham-k-jha)
+
+</div>
