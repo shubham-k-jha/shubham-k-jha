@@ -1,43 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C2FF,50:4F46E5,100:7C3AED&text=Shubham%20Kumar%20Jha&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Data%20Analytics%20%C2%B7%20Data%20Science%20%C2%B7%20Scientific%20Computing&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+<img src="assets/hero.svg" width="100%" alt="Shubham Kumar Jha — Data Analytics, Data Science, Scientific Computing" />
 
 <a href="https://github.com/shubham-k-jha">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Databricks+%7C+AWS;From+solar+physics+to+machine+learning;Building+and+sharing+work+in+public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=720&lines=Turning+data+into+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Databricks+%7C+AWS;From+solar+physics+to+machine+learning;Building+and+sharing+work+in+public" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/shubham-k-jha/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/shubham-k-jha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://shubham-k-jha.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-<a href="mailto:shubhamkjha.ds@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.reddit.com/user/Admirable-Ad9707/">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-</a>
+<a href="https://www.linkedin.com/in/shubham-k-jha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/shubham-k-jha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://shubham-k-jha.github.io/"><img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="mailto:shubhamkjha.ds@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.reddit.com/user/Admirable-Ad9707/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+
+<br><br>
+
+<img src="assets/t-brief.svg" width="100%" alt="Mission brief" />
 
 </div>
-
-<br>
 
 <table width="100%">
 <tr>
 
 <td width="40%" align="center" valign="middle">
 
-<img
-  src="https://cdn.dribbble.com/userupload/20549102/file/original-84432515c793dc62458aa3990c078dd2.gif"
-  width="300"
-  alt="Minion coding"
-/>
+<img src="https://cdn.dribbble.com/userupload/20549102/file/original-84432515c793dc62458aa3990c078dd2.gif" width="300" alt="Minion coding" />
 
 </td>
 
@@ -56,9 +44,7 @@ quantitative analysis, scientific datasets, statistics, visualization,
 time-series analysis and reproducible computational workflows.
 </p>
 
-<p>
-📊 <b>Data Analytics</b> &nbsp;•&nbsp; 🤖 <b>Data Science</b> &nbsp;•&nbsp; ☀️ <b>Scientific Research</b>
-</p>
+<p>📊 <b>Data Analytics</b> &nbsp;•&nbsp; 🤖 <b>Data Science</b> &nbsp;•&nbsp; ☀️ <b>Scientific Research</b></p>
 
 <sub>📍 Based in India &nbsp;·&nbsp; 🟢 Building and sharing work in public</sub>
 
@@ -66,10 +52,6 @@ time-series analysis and reproducible computational workflows.
 
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C2FF,100:7C3AED" width="100%" />
-
-<h2 align="center">🔍 What teams can evaluate quickly</h2>
 
 <table width="100%">
 <tr>
@@ -104,11 +86,13 @@ Data Analyst<br>Data Scientist<br>Scientific Computing<br>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C2FF,100:7C3AED" width="100%" />
-
-<h2 align="center">📈 Proof at a glance</h2>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
+
+<img src="assets/t-proof.svg" width="100%" alt="Proof at a glance" />
+
+<br>
 
 <table>
 <tr>
@@ -126,9 +110,13 @@ Data Analyst<br>Data Scientist<br>Scientific Computing<br>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C2FF,100:7C3AED" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">🔥 Selected work</h2>
+<div align="center">
+<img src="assets/t-work.svg" width="100%" alt="Selected work" />
+</div>
+
+<br>
 
 <table width="100%">
 <tr>
@@ -140,9 +128,7 @@ Physics-informed machine learning for **solar active regions, magnetic-flux emer
 
 `Python` `Machine Learning` `XGBoost` `SHAP` `Statistics`
 
-<a href="https://github.com/shubham-k-jha/solar-ar-kutsenko-ml">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-4F46E5?style=for-the-badge">
-</a>
+<a href="https://github.com/shubham-k-jha/solar-ar-kutsenko-ml"><img src="https://img.shields.io/badge/VIEW_PROJECT-4F46E5?style=for-the-badge"></a>
 
 </td>
 
@@ -154,9 +140,7 @@ Business analytics project combining **SQL + Python + Power BI** to analyze tran
 
 `SQL` `Python` `Power BI` `Pandas`
 
-<a href="https://github.com/shubham-k-jha/superstore-analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-EA580C?style=for-the-badge">
-</a>
+<a href="https://github.com/shubham-k-jha/superstore-analysis"><img src="https://img.shields.io/badge/VIEW_PROJECT-EA580C?style=for-the-badge"></a>
 
 </td>
 </tr>
@@ -170,9 +154,7 @@ End-to-end transactional analysis using **SQL and Python**, with data exploratio
 
 `SQL` `Python` `Pandas` `Matplotlib`
 
-<a href="https://github.com/shubham-k-jha/ecommerce-sales-analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge">
-</a>
+<a href="https://github.com/shubham-k-jha/ecommerce-sales-analysis"><img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge"></a>
 
 </td>
 
@@ -184,9 +166,7 @@ Analysis of the **UCI Online Retail II dataset** using Pandas and PySpark, inclu
 
 `Python` `Pandas` `PySpark` `Random Forest`
 
-<a href="https://github.com/shubham-k-jha/online-retail-analytics">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-16A34A?style=for-the-badge">
-</a>
+<a href="https://github.com/shubham-k-jha/online-retail-analytics"><img src="https://img.shields.io/badge/VIEW_PROJECT-16A34A?style=for-the-badge"></a>
 
 </td>
 </tr>
@@ -200,19 +180,21 @@ End-to-end Netflix Top 10 analytics covering **global and country intelligence, 
 
 `Python` `SQL` `Statistics` `Machine Learning` `Streamlit`
 
-<a href="https://github.com/shubham-k-jha/netflix-content-intelligence">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-E50914?style=for-the-badge">
-</a>
+<a href="https://github.com/shubham-k-jha/netflix-content-intelligence"><img src="https://img.shields.io/badge/VIEW_PROJECT-E50914?style=for-the-badge"></a>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C2FF,100:7C3AED" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">🚀 Live apps &amp; interactive builds</h2>
+<div align="center">
+<img src="assets/t-apps.svg" width="100%" alt="Live apps and builds" />
 
-<p align="center"><i>Try the work, don't just read about it.</i></p>
+<i>Try the work, don't just read about it.</i>
+</div>
+
+<br>
 
 <table width="100%">
 <tr>
@@ -225,9 +207,7 @@ End-to-end Netflix Top 10 analytics covering **global and country intelligence, 
 
 Interactive finance calculator and dashboard.
 
-<a href="https://finance-calc-app.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀_OPEN_APP-00C2FF?style=for-the-badge&labelColor=07111F">
-</a>
+<a href="https://finance-calc-app.streamlit.app/"><img src="https://img.shields.io/badge/🚀_OPEN_APP-00C2FF?style=for-the-badge&labelColor=07111F"></a>
 
 </td>
 
@@ -239,13 +219,9 @@ Interactive finance calculator and dashboard.
 
 Interactive resume screening and analysis workflow.
 
-<a href="https://ats--resume-screener.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀_OPEN_APP-7C3AED?style=for-the-badge&labelColor=07111F">
-</a>
+<a href="https://ats--resume-screener.streamlit.app/"><img src="https://img.shields.io/badge/🚀_OPEN_APP-7C3AED?style=for-the-badge&labelColor=07111F"></a>
 <br>
-<a href="https://github.com/shubham-k-jha/ats-resume-screener">
-<img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<a href="https://github.com/shubham-k-jha/ats-resume-screener"><img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </td>
 
@@ -257,18 +233,20 @@ Interactive resume screening and analysis workflow.
 
 Interactive job-search and matching workflow.
 
-<a href="https://job--agent.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀_OPEN_APP-FF4D6D?style=for-the-badge&labelColor=07111F">
-</a>
+<a href="https://job--agent.streamlit.app/"><img src="https://img.shields.io/badge/🚀_OPEN_APP-FF4D6D?style=for-the-badge&labelColor=07111F"></a>
 
 </td>
 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C2FF,100:7C3AED" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">🎮 Game lab</h2>
+<div align="center">
+<img src="assets/t-games.svg" width="100%" alt="Game lab" />
+</div>
+
+<br>
 
 <table width="100%">
 <tr>
@@ -281,13 +259,9 @@ Interactive job-search and matching workflow.
 
 A simple Pong game with mouse/keyboard controls and an AI opponent.
 
-<a href="https://shubham-k-jha.github.io/Neon-Pong">
-<img src="https://img.shields.io/badge/▶_PLAY_LIVE-FF0080?style=for-the-badge&logo=githubpages&logoColor=white">
-</a>
+<a href="https://shubham-k-jha.github.io/Neon-Pong"><img src="https://img.shields.io/badge/▶_PLAY_LIVE-FF0080?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 <br>
-<a href="https://github.com/shubham-k-jha/Neon-Pong">
-<img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<a href="https://github.com/shubham-k-jha/Neon-Pong"><img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </td>
 
@@ -299,24 +273,22 @@ A simple Pong game with mouse/keyboard controls and an AI opponent.
 
 A fully interactive chess game built with vanilla HTML, CSS and JavaScript.
 
-<a href="https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/">
-<img src="https://img.shields.io/badge/▶_PLAY_LIVE-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white">
-</a>
+<a href="https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/"><img src="https://img.shields.io/badge/▶_PLAY_LIVE-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 <br>
-<a href="https://github.com/shubham-k-jha/Neon-Chess-Chess-vs-AI">
-<img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<a href="https://github.com/shubham-k-jha/Neon-Chess-Chess-vs-AI"><img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </td>
 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C2FF,100:7C3AED" width="100%" />
-
-<h2 align="center">🧰 Technical toolkit</h2>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
+
+<img src="assets/t-stack.svg" width="100%" alt="Technical toolkit" />
+
+<br>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shubham-k-jha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Language Stack" />
 
@@ -332,11 +304,7 @@ A fully interactive chess game built with vanilla HTML, CSS and JavaScript.
 </tr>
 </table>
 
-</div>
-
 <br>
-
-<div align="center">
 
 **📊 Data, ML &amp; analytics**
 
@@ -360,25 +328,21 @@ A fully interactive chess game built with vanilla HTML, CSS and JavaScript.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C2FF,100:7C3AED" width="100%" />
-
-<h2 align="center">🤝 Let's talk about the next build</h2>
-
-<p align="center">
-<i>Open to thoughtful teams, ambitious products, and useful data and engineering work.</i>
-</p>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shubham-k-jha/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:shubhamkjha.ds@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://shubham-k-jha.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+<img src="assets/t-contact.svg" width="100%" alt="Let's talk about the next build" />
+
+<br>
+
+<i>Open to thoughtful teams, ambitious products, and useful data and engineering work.</i>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/shubham-k-jha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:shubhamkjha.ds@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://shubham-k-jha.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 
 <br><br>
 
@@ -386,6 +350,8 @@ A fully interactive chess game built with vanilla HTML, CSS and JavaScript.
 &nbsp;
 <a href="https://github-profile-analytics-rho.vercel.app/dashboard.html">📈 View Analytics Dashboard</a>
 
-</div>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,50:4F46E5,100:00C2FF&section=footer" width="100%" alt="Footer" />
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
+
+</div>
