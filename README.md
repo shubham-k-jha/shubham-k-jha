@@ -3,13 +3,13 @@
 <table width="100%">
 <tr>
 
-<!-- LEFT: CINEMATIC PROFILE GRAPHIC -->
+<!-- LEFT: MINION GIF -->
 <td width="40%" align="center" valign="middle">
 
 <img
-  src="./assets/profile-hero.jpg"
+  src="https://cdn.dribbble.com/userupload/20549102/file/original-84432515c793dc62458aa3990c078dd2.gif"
   width="300"
-  alt="Cinematic data-science profile scene"
+  alt="Minion coding"
 />
 
 </td>
@@ -37,10 +37,6 @@ machine-learning solutions, and scientific data applications.
 </table>
 
 </div>
-
-<p align="center">
-  <img src="./assets/profile-hero.jpg" width="96%" alt="Cinematic data landscape divider">
-</p>
 
 
 # 🌐 SOCIALS
@@ -80,69 +76,28 @@ I am now applying that analytical approach to:
 
 **📊 Data Analytics • Data Science • Scientific Research**
 
+</td>
+
+<td width="42%" valign="top">
+
 
 # 💻 TECH STACK
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)  ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+![Astropy](https://img.shields.io/badge/Astropy-2C3E50.svg?style=for-the-badge&logo=python&logoColor=white) ![SunPy](https://img.shields.io/badge/SunPy-0B5A9C.svg?style=for-the-badge&logo=python&logoColor=white) ![IDL](https://img.shields.io/badge/IDL-6A1B9A.svg?style=for-the-badge&logo=gnu&logoColor=white) ![DAVE4VM](https://img.shields.io/badge/DAVE4VM-4B5563.svg?style=for-the-badge) ![SHARP](https://img.shields.io/badge/SHARP-1F2937.svg?style=for-the-badge) ![SDO%20%7C%20AIA%20%7C%20HMI](https://img.shields.io/badge/SDO%20%7C%20AIA%20%7C%20HMI-0EA5E9.svg?style=for-the-badge) ![GOES](https://img.shields.io/badge/GOES-F59E0B.svg?style=for-the-badge)
 
-![Astropy](https://img.shields.io/badge/Astropy-2C3E50.svg?style=for-the-badge&logo=python&logoColor=white)
-![SunPy](https://img.shields.io/badge/SunPy-0B5A9C.svg?style=for-the-badge&logo=python&logoColor=white)
-![IDL](https://img.shields.io/badge/IDL-6A1B9A.svg?style=for-the-badge&logo=gnu&logoColor=white)
-![DAVE4VM](https://img.shields.io/badge/DAVE4VM-4B5563.svg?style=for-the-badge)
-![SHARP](https://img.shields.io/badge/SHARP-1F2937.svg?style=for-the-badge)
-![SDO%20%7C%20AIA%20%7C%20HMI](https://img.shields.io/badge/SDO%20%7C%20AIA%20%7C%20HMI-0EA5E9.svg?style=for-the-badge)
-![GOES](https://img.shields.io/badge/GOES-F59E0B.svg?style=for-the-badge)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shubham-k-jha&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=shubham-k-jha&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubham-k-jha&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=shubham-k-jha&theme=dark&hide_border=true&bg_color=07131D&title_color=EAFBFF&text_color=B9CBD7&icon_color=5DE4FF&include_all_commits=true&count_private=true)<br/>
-
-![](https://streak-stats.demolab.com/?user=shubham-k-jha&theme=dark&hide_border=true&background=07131D&ring=5DE4FF&fire=FFB454&currStreakLabel=EAFBFF)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubham-k-jha&theme=dark&hide_border=true&bg_color=07131D&title_color=EAFBFF&text_color=B9CBD7&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🏆 GITHUB TROPHIES
-
 ![](https://github-profile-trophy.vercel.app/?username=shubham-k-jha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
 ### ✍️ RANDOM DEV QUOTE
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -150,12 +105,7 @@ I am now applying that analytical approach to:
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
-
-<a href="https://github.com/shubham-k-jha/solar-ar-kutsenko-ml">
-<img src="./assets/solar-ar.jpg" width="100%" alt="Solar AR Kutsenko ML">
-</a>
 
 ## ☀️ Solar AR Kutsenko ML
 
@@ -173,10 +123,6 @@ Physics-informed machine learning for **solar active regions, magnetic-flux emer
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/shubham-k-jha/superstore-analysis">
-<img src="./assets/superstore.jpg" width="100%" alt="Superstore Analysis">
-</a>
-
 ## 🛒 Superstore Analysis
 
 Business analytics project combining **SQL + Python + Power BI** to analyze transactional data and produce business insights and dashboards.
@@ -190,16 +136,10 @@ Business analytics project combining **SQL + Python + Power BI** to analyze tran
 </a>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td valign="top">
-
-<a href="https://github.com/shubham-k-jha/ecommerce-sales-analysis">
-<img src="./assets/ecommerce.jpg" width="100%" alt="E-Commerce Sales Analysis">
-</a>
 
 ## 🛍️ E-Commerce Sales Analysis
 
@@ -217,10 +157,6 @@ End-to-end transactional analysis using **SQL and Python**, with data exploratio
 
 <td valign="top">
 
-<a href="https://github.com/shubham-k-jha/online-retail-analytics">
-<img src="./assets/retail.jpg" width="100%" alt="Online Retail Analytics">
-</a>
-
 ## 👥 Online Retail Analytics
 
 Analysis of the **UCI Online Retail II dataset** using Pandas and PySpark, including RFM customer segmentation and cancellation prediction with Random Forest.
@@ -234,16 +170,10 @@ Analysis of the **UCI Online Retail II dataset** using Pandas and PySpark, inclu
 </a>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td colspan="2" valign="top">
-
-<a href="https://github.com/shubham-k-jha/netflix-content-intelligence">
-<img src="./assets/netflix.jpg" width="100%" alt="Netflix Content Intelligence">
-</a>
 
 ## 🎬 Netflix Content Intelligence
 
@@ -258,10 +188,10 @@ End-to-end Netflix Top 10 analytics covering **global and country intelligence, 
 </a>
 
 </td>
-
 </tr>
-
 </table>
+
+---
 
 ---
 
@@ -273,10 +203,6 @@ End-to-end Netflix Top 10 analytics covering **global and country intelligence, 
 <tr>
 
 <td align="center" width="33%">
-
-<a href="https://finance-calc-app.streamlit.app/">
-<img src="./assets/finance.jpg" width="100%" alt="Finance Calculator">
-</a>
 
 ### 📈 FINANCE CALCULATOR
 
@@ -291,10 +217,6 @@ Interactive finance calculator and dashboard.
 </td>
 
 <td align="center" width="33%">
-
-<a href="https://ats--resume-screener.streamlit.app/">
-<img src="./assets/ats.jpg" width="100%" alt="ATS Resume Screener">
-</a>
 
 ### 🎯 ATS RESUME SCREENER
 
@@ -314,10 +236,6 @@ Interactive resume screening and analysis workflow.
 
 <td align="center" width="33%">
 
-<a href="https://job--agent.streamlit.app/">
-<img src="./assets/job-agent.jpg" width="100%" alt="Job Agent">
-</a>
-
 ### 🤖 JOB AGENT
 
 <a href="https://job--agent.streamlit.app/">
@@ -335,16 +253,14 @@ Interactive job-search and matching workflow.
 
 ---
 
+---
+
 # 🎮 GAME LAB
 
 <table>
 <tr>
 
 <td align="center" width="50%">
-
-<a href="https://shubham-k-jha.github.io/Neon-Pong">
-<img src="./assets/pong.jpg" width="100%" alt="Neon Pong">
-</a>
 
 ### 🏓 NEON PONG
 
@@ -362,10 +278,6 @@ Interactive job-search and matching workflow.
 
 <td align="center" width="50%">
 
-<a href="https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/">
-<img src="./assets/chess.jpg" width="100%" alt="Neon Chess">
-</a>
-
 ### ♟️ NEON CHESS
 
 <a href="https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/">
@@ -382,22 +294,18 @@ Interactive job-search and matching workflow.
 
 </tr>
 </table>
-
 ---
+
 
 ## 📊 GitHub Analytics
 
 <p align="left">
-
-<img
-  src="https://github-profile-analytics-rho.vercel.app/api/count?username=shubham-k-jha&label=PROFILE%20VIEWS"
-  alt="GitHub Profile Views"
-/>
-
-&nbsp;
-
-<a href="https://github-profile-analytics-rho.vercel.app/dashboard.html">
-📈 View Analytics Dashboard
-</a>
-
+  <img
+    src="https://github-profile-analytics-rho.vercel.app/api/count?username=shubham-k-jha&label=PROFILE%20VIEWS"
+    alt="GitHub Profile Views"
+  />
+  &nbsp;
+  <a href="https://github-profile-analytics-rho.vercel.app/dashboard.html">
+    📈 View Analytics Dashboard
+  </a>
 </p>
