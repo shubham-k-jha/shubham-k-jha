@@ -18,9 +18,6 @@
 <p align="center"><b>Data analyst with a physics research background.</b><br>
 I've worked with 40 GB of SDO/HMI/AIA solar data, and more than 500 GB of SDO/HMI data across 100+ active regions. I bring the same habit to business data: validate first, then trust the result. Currently studying advanced machine learning, AI and statistics.</p>
 
-<p align="center"><a href="https://shubham-k-jha.github.io/">Portfolio</a> · <a href="https://shubham-k-jha.github.io/#writing">Writing</a> · <a href="https://shubham-k-jha.github.io/assets/Shubham_Kumar_Jha_CV.pdf">CV (PDF)</a> · <a href="mailto:shubhamkjha.ds@gmail.com">Email</a></p>
-
-
 <br><br>
 
 <img src="assets/ticker.svg" width="100%" alt="Python, SQL, Power BI, Databricks, AWS, Machine Learning, Solar Physics" />
