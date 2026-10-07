@@ -13,7 +13,7 @@
 <circle cx="286" cy="30" r="60" fill="#7c8bff" opacity="0.1"><animate attributeName="r" values="50;70;50" dur="5s" repeatCount="indefinite"/></circle>
 <text x="158.0" y="46" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" letter-spacing="3" fill="#7c8bff" font-weight="700">// PUBLIC PROOF</text>
 <text x="158.0" y="88" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#f1f5ff">15 repos · 9 stars</text>
-<text x="158.0" y="118" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#c7d2f0">4 live apps &amp; games</text>
+<text x="158.0" y="118" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#c7d2f0">5 live apps &amp; games</text>
 <text x="158.0" y="158" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" fill="#8b9bbd">Everything is open to explore</text></g>
 <g transform="translate(684,0)"><rect width="316" height="190" rx="14" fill="#070b1a"/>
 <rect width="316" height="190" rx="14" fill="none" stroke="#c084fc" stroke-opacity="0.3" stroke-width="1.5"/>

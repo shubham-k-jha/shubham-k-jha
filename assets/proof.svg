@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="15 repositories, 9 stars, 174 contributions, 0 followers"><g transform="translate(0,0)"><rect width="232" height="170" rx="14" fill="#070b1a" stroke="#00c2ff" stroke-opacity="0.35" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="15 repositories, 9 stars, 174 contributions, 500+ GB of solar data"><g transform="translate(0,0)"><rect width="232" height="170" rx="14" fill="#070b1a" stroke="#00c2ff" stroke-opacity="0.35" stroke-width="1.5"/>
 <g transform="translate(116.0,78)"><circle r="52" fill="none" stroke="#00c2ff" stroke-opacity="0.18" stroke-width="3"/>
 <circle r="52" fill="none" stroke="#00c2ff" stroke-width="3" stroke-linecap="round" pathLength="100" stroke-dasharray="28 72"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/></circle>
 <circle r="42" fill="#00c2ff" opacity="0.08"><animate attributeName="r" values="38;46;38" dur="3s" begin="-0s" repeatCount="indefinite"/></circle>
@@ -17,5 +17,5 @@
 <g transform="translate(116.0,78)"><circle r="52" fill="none" stroke="#c084fc" stroke-opacity="0.18" stroke-width="3"/>
 <circle r="52" fill="none" stroke="#c084fc" stroke-width="3" stroke-linecap="round" pathLength="100" stroke-dasharray="28 72"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/></circle>
 <circle r="42" fill="#c084fc" opacity="0.08"><animate attributeName="r" values="38;46;38" dur="3s" begin="-3s" repeatCount="indefinite"/></circle>
-<text y="14" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="#fff">0</text></g>
-<text x="116.0" y="152" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#c084fc" font-weight="700">FOLLOWERS</text></g></svg>
+<text y="14" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="36" font-weight="800" fill="#fff">500+</text></g>
+<text x="116.0" y="152" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#c084fc" font-weight="700">GB OF SOLAR DATA</text></g></svg>
