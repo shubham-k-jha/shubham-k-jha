@@ -13,6 +13,13 @@
 <a href="https://shubham-k-jha.github.io/"><img src="assets/b-portfolio.svg" alt="Portfolio" height="40" /></a>
 <a href="mailto:shubhamkjha.ds@gmail.com"><img src="assets/b-email.svg" alt="Email" height="40" /></a>
 <a href="https://www.reddit.com/user/Admirable-Ad9707/"><img src="assets/b-reddit.svg" alt="Reddit" height="40" /></a>
+<br><br>
+
+<p align="center"><b>Data analyst with a physics research background.</b><br>
+I've worked with 40 GB of SDO/HMI/AIA solar data, and more than 500 GB of SDO/HMI data across 100+ active regions. I bring the same habit to business data: validate first, then trust the result. Currently studying advanced machine learning, AI and statistics.</p>
+
+<p align="center"><a href="https://shubham-k-jha.github.io/">Portfolio</a> · <a href="https://shubham-k-jha.github.io/#writing">Writing</a> · <a href="https://shubham-k-jha.github.io/assets/Shubham_Kumar_Jha_CV.pdf">CV (PDF)</a> · <a href="mailto:shubhamkjha.ds@gmail.com">Email</a></p>
+
 
 <br><br>
 
@@ -54,7 +61,15 @@
 <a href="https://github.com/shubham-k-jha/ecommerce-sales-analysis"><img src="assets/p3.svg" width="49%" alt="E-Commerce Sales Analysis" /></a>
 <a href="https://github.com/shubham-k-jha/online-retail-analytics"><img src="assets/p4.svg" width="49%" alt="Online Retail Analytics" /></a>
 
-<a href="https://github.com/shubham-k-jha/netflix-content-intelligence"><img src="assets/p5.svg" width="98%" alt="Netflix Content Intelligence" /></a>
+<a href="https://github.com/shubham-k-jha/netflix-content-analytics"><img src="assets/p5.svg" width="98%" alt="Netflix Content Intelligence" /></a>
+
+<a href="https://github.com/shubham-k-jha/Customer-Revenue-Churn"><img src="assets/p6.svg" width="98%" alt="Customer Revenue and Churn Platform" /></a>
+
+<br>
+
+<a href="https://github.com/shubham-k-jha/superstore-analysis"><img src="assets/superstore-dashboard.png" width="98%" alt="Superstore performance dashboard: sales and profit trend, profit by sub-category, shipping days by priority, below-average provinces and top customers" /></a>
+
+<sub><i>Superstore dashboard: Tables and Bookcases lose money, and low-priority orders ship about three times slower.</i></sub>
 
 <br>
 
@@ -115,6 +130,20 @@
 <br>
 
 <img src="assets/skills-cloud.svg" width="100%" alt="Cloud, DevOps and tools" />
+
+<details>
+<summary><b>Toolkit as plain text</b></summary>
+
+**Python and data:** Python, Pandas, NumPy, SciPy, PySpark  
+**SQL:** MySQL, PostgreSQL, SQLite, CTEs, window functions  
+**BI and visualisation:** Power BI, DAX, Tableau, Excel, Matplotlib, Seaborn, Plotly  
+**Machine learning:** Scikit-learn, XGBoost, SHAP, forecasting  
+**Statistics:** hypothesis and A/B testing, inference, time series  
+**Scientific computing:** SunPy, Astropy, HMI, AIA and GOES data, Linux  
+**Tools:** Git, GitHub, Streamlit, FastAPI, Docker, AWS fundamentals
+
+</details>
+
 
 <br>
 
