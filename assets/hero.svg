@@ -7,7 +7,7 @@
 <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff"/></linearGradient>
 <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00c2ff" stop-opacity="0"/><stop offset="0.5" stop-color="#00c2ff" stop-opacity="0.12"/><stop offset="1" stop-color="#00c2ff" stop-opacity="0"/></linearGradient>
 <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<clipPath id="reveal"><rect x="70" y="205" width="0" height="40"><animate attributeName="width" from="0" to="640" dur="2.6s" begin="1.2s" fill="freeze"/></rect></clipPath>
+<clipPath id="reveal"><rect x="70" y="205" width="700" height="40"><animate attributeName="width" values="0;0;700" keyTimes="0;0.35;1" dur="3.6s" begin="0s" fill="freeze"/></rect></clipPath>
 <clipPath id="card"><rect width="1000" height="380" rx="18"/></clipPath>
 </defs>
 <g clip-path="url(#card)">
@@ -44,14 +44,14 @@
 <path d="M 970 290 V 350 H 910" fill="none" stroke="#c084fc" stroke-opacity="0.6" stroke-width="2"/>
 <!-- title -->
 <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="800">
-<text x="70" y="170" font-size="62" fill="url(#txt)" filter="url(#glow)" opacity="0">SHUBHAM KUMAR JHA
-<animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.2s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="-40,0" to="0,0" dur="1.2s" begin="0.2s" fill="freeze"/></text>
+<text x="70" y="170" font-size="62" fill="url(#txt)" filter="url(#glow)">SHUBHAM KUMAR JHA
+<animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="-40,0" to="0,0" dur="1.2s" begin="0s" fill="freeze"/></text>
 </g>
 <g clip-path="url(#reveal)" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="19" fill="#e5ecff" letter-spacing="1.5">
 <text x="70" y="232">DATA ANALYTICS · DATA SCIENCE · SCIENTIFIC COMPUTING</text></g>
-<text x="70" y="290" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#9fb0d6" opacity="0">Turning data into decisions — from solar physics to machine learning.
-<animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="3.6s" fill="freeze"/></text>
+<text x="70" y="290" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#9fb0d6">Turning data into decisions — from solar physics to machine learning.
+<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7;1" dur="4.5s" begin="0s" fill="freeze"/></text>
 </g>
 <rect x="1" y="1" width="998" height="378" rx="18" fill="none" stroke="url(#txt)" stroke-opacity="0.55" stroke-width="2"/>
 </svg>

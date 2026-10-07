@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 112" width="1000" height="112" role="img" aria-label="// DATABASES, BI and VISUALIZATION">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00c2ff"/><stop offset="1" stop-color="#c084fc"/></linearGradient></defs>
+<rect width="1000" height="112" rx="14" fill="#070b1a"/><rect x="1" y="1" width="998" height="110" rx="14" fill="none" stroke="url(#g)" stroke-opacity="0.4" stroke-width="1.5"/>
+<text x="30" y="34" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#00c2ff" font-weight="700">// DATABASES, BI &amp; VISUALIZATION</text><g><rect x="30" y="56" width="81" height="32" rx="16" fill="#4a90c2" fill-opacity="0.1" stroke="#4a90c2" stroke-opacity="0.55"/>
+<circle cx="46" cy="72" r="4.5" fill="#4a90c2"><animate attributeName="opacity" values="1;0.35;1" dur="2.0s" begin="-0.0s" repeatCount="indefinite"/></circle>
+<text x="58" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">MySQL</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="3s" begin="-0.0s" repeatCount="indefinite"/></g><g><rect x="123.0" y="56" width="89" height="32" rx="16" fill="#5aa9d6" fill-opacity="0.1" stroke="#5aa9d6" stroke-opacity="0.55"/>
+<circle cx="139.0" cy="72" r="4.5" fill="#5aa9d6"><animate attributeName="opacity" values="1;0.35;1" dur="2.5s" begin="-0.3s" repeatCount="indefinite"/></circle>
+<text x="151.0" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">SQLite</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="4s" begin="-0.4s" repeatCount="indefinite"/></g><g><rect x="224.2" y="56" width="106" height="32" rx="16" fill="#F2C811" fill-opacity="0.1" stroke="#F2C811" stroke-opacity="0.55"/>
+<circle cx="240.2" cy="72" r="4.5" fill="#F2C811"><animate attributeName="opacity" values="1;0.35;1" dur="3.0s" begin="-0.6s" repeatCount="indefinite"/></circle>
+<text x="252.2" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">Power BI</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="5s" begin="-0.8s" repeatCount="indefinite"/></g><g><rect x="341.79999999999995" y="56" width="122" height="32" rx="16" fill="#60a5fa" fill-opacity="0.1" stroke="#60a5fa" stroke-opacity="0.55"/>
+<circle cx="357.79999999999995" cy="72" r="4.5" fill="#60a5fa"><animate attributeName="opacity" values="1;0.35;1" dur="3.5s" begin="-0.9s" repeatCount="indefinite"/></circle>
+<text x="369.79999999999995" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">Matplotlib</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="3s" begin="-1.2s" repeatCount="indefinite"/></g><g><rect x="475.79999999999995" y="56" width="89" height="32" rx="16" fill="#7c8bff" fill-opacity="0.1" stroke="#7c8bff" stroke-opacity="0.55"/>
+<circle cx="491.79999999999995" cy="72" r="4.5" fill="#7c8bff"><animate attributeName="opacity" values="1;0.35;1" dur="2.0s" begin="-1.2s" repeatCount="indefinite"/></circle>
+<text x="503.79999999999995" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">Plotly</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="4s" begin="-1.6s" repeatCount="indefinite"/></g></svg>

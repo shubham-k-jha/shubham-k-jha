@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="15 repositories, 9 stars, 174 contributions, 0 followers"><g transform="translate(0,0)"><rect width="232" height="170" rx="14" fill="#070b1a" stroke="#00c2ff" stroke-opacity="0.35" stroke-width="1.5"/>
+<g transform="translate(116.0,78)"><circle r="52" fill="none" stroke="#00c2ff" stroke-opacity="0.18" stroke-width="3"/>
+<circle r="52" fill="none" stroke="#00c2ff" stroke-width="3" stroke-linecap="round" pathLength="100" stroke-dasharray="28 72"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/></circle>
+<circle r="42" fill="#00c2ff" opacity="0.08"><animate attributeName="r" values="38;46;38" dur="3s" begin="-0s" repeatCount="indefinite"/></circle>
+<text y="14" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="#fff">15</text></g>
+<text x="116.0" y="152" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#00c2ff" font-weight="700">REPOSITORIES</text></g><g transform="translate(256,0)"><rect width="232" height="170" rx="14" fill="#070b1a" stroke="#facc15" stroke-opacity="0.35" stroke-width="1.5"/>
+<g transform="translate(116.0,78)"><circle r="52" fill="none" stroke="#facc15" stroke-opacity="0.18" stroke-width="3"/>
+<circle r="52" fill="none" stroke="#facc15" stroke-width="3" stroke-linecap="round" pathLength="100" stroke-dasharray="28 72"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite"/></circle>
+<circle r="42" fill="#facc15" opacity="0.08"><animate attributeName="r" values="38;46;38" dur="3s" begin="-1s" repeatCount="indefinite"/></circle>
+<text y="14" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="#fff">9</text></g>
+<text x="116.0" y="152" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#facc15" font-weight="700">STARS</text></g><g transform="translate(512,0)"><rect width="232" height="170" rx="14" fill="#070b1a" stroke="#22c55e" stroke-opacity="0.35" stroke-width="1.5"/>
+<g transform="translate(116.0,78)"><circle r="52" fill="none" stroke="#22c55e" stroke-opacity="0.18" stroke-width="3"/>
+<circle r="52" fill="none" stroke="#22c55e" stroke-width="3" stroke-linecap="round" pathLength="100" stroke-dasharray="28 72"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/></circle>
+<circle r="42" fill="#22c55e" opacity="0.08"><animate attributeName="r" values="38;46;38" dur="3s" begin="-2s" repeatCount="indefinite"/></circle>
+<text y="14" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="#fff">174</text></g>
+<text x="116.0" y="152" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#22c55e" font-weight="700">CONTRIBUTIONS</text></g><g transform="translate(768,0)"><rect width="232" height="170" rx="14" fill="#070b1a" stroke="#c084fc" stroke-opacity="0.35" stroke-width="1.5"/>
+<g transform="translate(116.0,78)"><circle r="52" fill="none" stroke="#c084fc" stroke-opacity="0.18" stroke-width="3"/>
+<circle r="52" fill="none" stroke="#c084fc" stroke-width="3" stroke-linecap="round" pathLength="100" stroke-dasharray="28 72"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/></circle>
+<circle r="42" fill="#c084fc" opacity="0.08"><animate attributeName="r" values="38;46;38" dur="3s" begin="-3s" repeatCount="indefinite"/></circle>
+<text y="14" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="#fff">0</text></g>
+<text x="116.0" y="152" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#c084fc" font-weight="700">FOLLOWERS</text></g></svg>

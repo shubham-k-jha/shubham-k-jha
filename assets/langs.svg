@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" width="1000" height="270" role="img" aria-label="Language stack: Jupyter Notebook 66%, Python 24%, HTML 6%, CSS 2%, JavaScript 2%">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00c2ff"/><stop offset="1" stop-color="#c084fc"/></linearGradient></defs>
+<rect width="1000" height="270" rx="14" fill="#070b1a"/><rect x="1" y="1" width="998" height="268" rx="14" fill="none" stroke="url(#g)" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="30" y="36" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#00c2ff" font-weight="700">&gt; LANGUAGE STACK  ·  REPOSITORY-WEIGHTED</text><text x="30" y="75" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e5ecff">Jupyter Notebook</text>
+<rect x="210" y="62" width="700" height="14" rx="7" fill="#101a35"/>
+<rect x="210" y="62" width="607" height="14" rx="7" fill="#f97316"><animate attributeName="width" values="0;607" dur="1.6s" begin="0.0s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="970" y="75" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#f97316">66%</text><text x="30" y="113" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e5ecff">Python</text>
+<rect x="210" y="100" width="700" height="14" rx="7" fill="#101a35"/>
+<rect x="210" y="100" width="221" height="14" rx="7" fill="#3b82f6"><animate attributeName="width" values="0;221" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="970" y="113" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#3b82f6">24%</text><text x="30" y="151" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e5ecff">HTML</text>
+<rect x="210" y="138" width="700" height="14" rx="7" fill="#101a35"/>
+<rect x="210" y="138" width="55" height="14" rx="7" fill="#ef4444"><animate attributeName="width" values="0;55" dur="1.6s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="970" y="151" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#ef4444">6%</text><text x="30" y="189" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e5ecff">CSS</text>
+<rect x="210" y="176" width="700" height="14" rx="7" fill="#101a35"/>
+<rect x="210" y="176" width="18" height="14" rx="7" fill="#a855f7"><animate attributeName="width" values="0;18" dur="1.6s" begin="0.6000000000000001s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="970" y="189" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#a855f7">2%</text><text x="30" y="227" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e5ecff">JavaScript</text>
+<rect x="210" y="214" width="700" height="14" rx="7" fill="#101a35"/>
+<rect x="210" y="214" width="18" height="14" rx="7" fill="#facc15"><animate attributeName="width" values="0;18" dur="1.6s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="970" y="227" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#facc15">2%</text></svg>

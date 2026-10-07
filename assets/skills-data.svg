@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 158" width="1000" height="158" role="img" aria-label="// DATA, ML and ANALYTICS">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00c2ff"/><stop offset="1" stop-color="#c084fc"/></linearGradient></defs>
+<rect width="1000" height="158" rx="14" fill="#070b1a"/><rect x="1" y="1" width="998" height="156" rx="14" fill="none" stroke="url(#g)" stroke-opacity="0.4" stroke-width="1.5"/>
+<text x="30" y="34" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#00c2ff" font-weight="700">// DATA, ML &amp; ANALYTICS</text><g><rect x="30" y="56" width="89" height="32" rx="16" fill="#5aa0e6" fill-opacity="0.1" stroke="#5aa0e6" stroke-opacity="0.55"/>
+<circle cx="46" cy="72" r="4.5" fill="#5aa0e6"><animate attributeName="opacity" values="1;0.35;1" dur="2.0s" begin="-0.0s" repeatCount="indefinite"/></circle>
+<text x="58" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">Python</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="3s" begin="-0.0s" repeatCount="indefinite"/></g><g><rect x="131.2" y="56" width="89" height="32" rx="16" fill="#b794f6" fill-opacity="0.1" stroke="#b794f6" stroke-opacity="0.55"/>
+<circle cx="147.2" cy="72" r="4.5" fill="#b794f6"><animate attributeName="opacity" values="1;0.35;1" dur="2.5s" begin="-0.3s" repeatCount="indefinite"/></circle>
+<text x="159.2" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">Pandas</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="4s" begin="-0.4s" repeatCount="indefinite"/></g><g><rect x="232.39999999999998" y="56" width="81" height="32" rx="16" fill="#4dabf7" fill-opacity="0.1" stroke="#4dabf7" stroke-opacity="0.55"/>
+<circle cx="248.39999999999998" cy="72" r="4.5" fill="#4dabf7"><animate attributeName="opacity" values="1;0.35;1" dur="3.0s" begin="-0.6s" repeatCount="indefinite"/></circle>
+<text x="260.4" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">NumPy</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="5s" begin="-0.8s" repeatCount="indefinite"/></g><g><rect x="325.4" y="56" width="81" height="32" rx="16" fill="#3b82f6" fill-opacity="0.1" stroke="#3b82f6" stroke-opacity="0.55"/>
+<circle cx="341.4" cy="72" r="4.5" fill="#3b82f6"><animate attributeName="opacity" values="1;0.35;1" dur="3.5s" begin="-0.9s" repeatCount="indefinite"/></circle>
+<text x="353.4" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">SciPy</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="3s" begin="-1.2s" repeatCount="indefinite"/></g><g><rect x="418.4" y="56" width="138" height="32" rx="16" fill="#F7931E" fill-opacity="0.1" stroke="#F7931E" stroke-opacity="0.55"/>
+<circle cx="434.4" cy="72" r="4.5" fill="#F7931E"><animate attributeName="opacity" values="1;0.35;1" dur="2.0s" begin="-1.2s" repeatCount="indefinite"/></circle>
+<text x="446.4" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">scikit-learn</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="4s" begin="-1.6s" repeatCount="indefinite"/></g><g><rect x="568.8" y="56" width="122" height="32" rx="16" fill="#FF6F00" fill-opacity="0.1" stroke="#FF6F00" stroke-opacity="0.55"/>
+<circle cx="584.8" cy="72" r="4.5" fill="#FF6F00"><animate attributeName="opacity" values="1;0.35;1" dur="2.5s" begin="-1.5s" repeatCount="indefinite"/></circle>
+<text x="596.8" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">TensorFlow</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="5s" begin="-2.0s" repeatCount="indefinite"/></g><g><rect x="702.8" y="56" width="81" height="32" rx="16" fill="#ff4d4d" fill-opacity="0.1" stroke="#ff4d4d" stroke-opacity="0.55"/>
+<circle cx="718.8" cy="72" r="4.5" fill="#ff4d4d"><animate attributeName="opacity" values="1;0.35;1" dur="3.0s" begin="-1.8s" repeatCount="indefinite"/></circle>
+<text x="730.8" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">Keras</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="3s" begin="-2.4s" repeatCount="indefinite"/></g><g><rect x="795.8" y="56" width="97" height="32" rx="16" fill="#EE4C2C" fill-opacity="0.1" stroke="#EE4C2C" stroke-opacity="0.55"/>
+<circle cx="811.8" cy="72" r="4.5" fill="#EE4C2C"><animate attributeName="opacity" values="1;0.35;1" dur="3.5s" begin="-2.1s" repeatCount="indefinite"/></circle>
+<text x="823.8" y="77" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">PyTorch</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="4s" begin="-2.8s" repeatCount="indefinite"/></g><g><rect x="30" y="102" width="89" height="32" rx="16" fill="#38bdf8" fill-opacity="0.1" stroke="#38bdf8" stroke-opacity="0.55"/>
+<circle cx="46" cy="118" r="4.5" fill="#38bdf8"><animate attributeName="opacity" values="1;0.35;1" dur="2.0s" begin="-2.4s" repeatCount="indefinite"/></circle>
+<text x="58" y="123" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">MLflow</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="5s" begin="-3.2s" repeatCount="indefinite"/></g><g><rect x="131.2" y="102" width="122" height="32" rx="16" fill="#FF3621" fill-opacity="0.1" stroke="#FF3621" stroke-opacity="0.55"/>
+<circle cx="147.2" cy="118" r="4.5" fill="#FF3621"><animate attributeName="opacity" values="1;0.35;1" dur="2.5s" begin="-2.7s" repeatCount="indefinite"/></circle>
+<text x="159.2" y="123" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">Databricks</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="3s" begin="-3.6s" repeatCount="indefinite"/></g><g><rect x="265.2" y="102" width="48" height="32" rx="16" fill="#5b9bd5" fill-opacity="0.1" stroke="#5b9bd5" stroke-opacity="0.55"/>
+<circle cx="281.2" cy="118" r="4.5" fill="#5b9bd5"><animate attributeName="opacity" values="1;0.35;1" dur="3.0s" begin="-3.0s" repeatCount="indefinite"/></circle>
+<text x="293.2" y="123" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">R</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="4s" begin="-4.0s" repeatCount="indefinite"/></g><g><rect x="325.4" y="102" width="106" height="32" rx="16" fill="#44A833" fill-opacity="0.1" stroke="#44A833" stroke-opacity="0.55"/>
+<circle cx="341.4" cy="118" r="4.5" fill="#44A833"><animate attributeName="opacity" values="1;0.35;1" dur="3.5s" begin="-3.3s" repeatCount="indefinite"/></circle>
+<text x="353.4" y="123" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#e5ecff">Anaconda</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="5s" begin="-4.4s" repeatCount="indefinite"/></g></svg>
