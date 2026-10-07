@@ -10,6 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shubham-k-jha.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubham-k-jha)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkjha.ds@gmail.com)
+[![Reddit](https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Admirable-Ad9707/)
 
 </div>
 
@@ -18,26 +19,22 @@
 ## 🧰 Tech Stack
 
 ### 🐍 Programming & Data
-**Python** · **SQL** · Pandas · NumPy · SciPy · PySpark · Jupyter
+**Python** · **SQL** · Pandas · NumPy · SciPy · PySpark · Jupyter Notebook
 
 ### 📊 Analytics & BI
 **Power BI** · **DAX** · Excel · Tableau · Matplotlib · Seaborn · Plotly
 
 ### 🤖 Machine Learning & Statistics
-**Scikit-learn** · XGBoost · SHAP · Feature Engineering · Classification · Regression · Forecasting  
-Hypothesis Testing · A/B Testing · Statistical Inference · Time Series Analysis · Model Evaluation
+**Scikit-learn** · **XGBoost** · **SHAP** · Feature Engineering · Classification · Regression · Forecasting · Model Evaluation · Hypothesis Testing · A/B Testing · Statistical Inference · Time Series
 
 ### 🗄️ Databases
 **MySQL** · **PostgreSQL** · **SQLite** · CTEs · Window Functions · Data Modelling
 
-### ☁️ Cloud & Data Engineering
-**AWS** · **Databricks** · PySpark · ETL / ELT · Data Pipelines · APIs · Docker
-
-### ⚙️ Development
-**Git** · **GitHub** · Streamlit · FastAPI · Linux
+### ☁️ Cloud & Engineering
+**AWS** · **Databricks** · PySpark · ETL / ELT · Data Pipelines · APIs · Docker · FastAPI · Streamlit · Git · GitHub · Linux
 
 ### 🔬 Scientific Computing
-**SunPy** · **Astropy** · HMI · AIA · GOES · Numerical Computing · Scientific Data Analysis
+**SunPy** · **Astropy** · HMI · AIA · GOES · Numerical Computing · Scientific Data Analysis · Solar Physics
 
 ---
 
@@ -45,18 +42,12 @@ Hypothesis Testing · A/B Testing · Statistical Inference · Time Series Analys
 
 | Project | Focus |
 |---|---|
-| ☀️ [**Solar AR ML**](https://github.com/shubham-k-jha/solar-ar-kutsenko-ml) | Scientific ML · Solar Physics · Feature Engineering |
-| 📊 [**Superstore Analysis**](https://github.com/shubham-k-jha/superstore-analysis) | Business Analytics · SQL · Power BI · KPI Analysis |
-| 🛒 [**E-Commerce Analytics**](https://github.com/shubham-k-jha/ecommerce-sales-analysis) | Revenue · Sales · Customer Analytics |
-| 👥 [**Online Retail Analytics**](https://github.com/shubham-k-jha/online-retail-analytics) | RFM · Segmentation · Customer Behaviour |
-| 🎬 [**Netflix Analytics**](https://github.com/shubham-k-jha/netflix-content-analytics) | Content · Genres · Trends · Exploratory Analysis |
-| 💰 [**Revenue & Churn**](https://github.com/shubham-k-jha/Customer-Revenue-Churn) | Revenue · Retention · Churn · Customer Analytics |
-
-### 📌 More Projects
-
-Explore the complete collection of **analytics, machine learning, data engineering, AI, scientific computing, and application projects**:
-
-➡️ [**View all repositories →**](https://github.com/shubham-k-jha?tab=repositories)
+| ☀️ [**Solar AR Kutsenko ML**](https://github.com/shubham-k-jha/solar-ar-kutsenko-ml) | Scientific ML · Solar Physics · HMI/AIA Data · Feature Engineering |
+| 📊 [**Superstore Analysis**](https://github.com/shubham-k-jha/superstore-analysis) | Business Analytics · SQL · Power BI · Sales · Profitability · KPIs |
+| 🛒 [**E-Commerce Sales Analysis**](https://github.com/shubham-k-jha/ecommerce-sales-analysis) | Revenue · Sales · Customer Analytics · Product Performance |
+| 👥 [**Online Retail Analytics**](https://github.com/shubham-k-jha/online-retail-analytics) | RFM · Customer Segmentation · Revenue · Customer Behaviour |
+| 🎬 [**Netflix Content Analytics**](https://github.com/shubham-k-jha/netflix-content-analytics) | Content · Genres · Countries · Ratings · Release Trends |
+| 💰 [**Customer Revenue & Churn**](https://github.com/shubham-k-jha/Customer-Revenue-Churn) | Revenue · Retention · Churn · Customer Analytics |
 
 ---
 
@@ -64,33 +55,28 @@ Explore the complete collection of **analytics, machine learning, data engineeri
 
 | Application | Description |
 |---|---|
-| 💰 [**Finance Calculator**](https://finance-calc-app.streamlit.app/) | Interactive financial calculations |
-| 📄 [**ATS Resume Screener**](https://ats--resume-screener.streamlit.app/) | Resume screening and job matching |
-| 🤖 [**Job Agent**](https://job--agent.streamlit.app/) | AI-assisted job search workflow |
+| 💰 [**Finance Calculator**](https://finance-calc-app.streamlit.app/) | Interactive finance calculation application |
+| 📄 [**ATS Resume Screener**](https://ats--resume-screener.streamlit.app/) | Resume screening and ATS-focused analysis |
+| 🤖 [**Job Agent**](https://job--agent.streamlit.app/) | AI-assisted job search application |
 
-### 🔗 Source Code
-
-📄 [**ATS Resume Screener →**](https://github.com/shubham-k-jha/ats-resume-screener)
+📄 [**ATS Resume Screener — Source Code**](https://github.com/shubham-k-jha/ats-resume-screener)
 
 ---
 
 ## 🔬 Research Background
 
-My journey into data started through **physics and scientific research**.
-
-I have worked with large-scale **SDO/HMI/AIA solar datasets**, including:
+My background is in **physics and solar research**, where I worked with large-scale scientific datasets and machine-learning workflows.
 
 - ☀️ **40+ GB** of SDO/HMI/AIA solar data
 - 🛰️ **500+ GB** of SDO/HMI data
 - 🔭 **100+ solar active regions**
-- 🧮 Scientific computing and numerical analysis
 - 📊 Statistical analysis and feature extraction
-- 🤖 Machine learning applied to scientific datasets
+- 🤖 Machine learning on scientific datasets
+- 🧮 Scientific computing and numerical analysis
+- 🐧 Linux-based research workflows
+- 🔬 SunPy and Astropy
 
-This experience taught me to work with **large, complex datasets**, investigate patterns, validate assumptions, and build reproducible analytical workflows.
-
-### My approach
-
+**Approach:**  
 `Validate → Explore → Model → Test → Explain → Communicate`
 
 ---
@@ -98,85 +84,38 @@ This experience taught me to work with **large, complex datasets**, investigate 
 ## 📈 What I Work On
 
 ### 💼 Business & Data Analytics
-- Sales & revenue analysis
-- Customer analytics
-- Product analytics
-- Churn & retention
-- KPI development
-- Business intelligence
-- Dashboard development
-- Operational analytics
-- Exploratory data analysis
+Sales analysis · Revenue analysis · Customer analytics · Product analytics · Churn & retention · KPI development · Business intelligence · Dashboard development · Operational analytics · Exploratory data analysis
 
-### 🤖 Data Science
-- Machine learning
-- Feature engineering
-- Predictive modelling
-- Classification & regression
-- Forecasting
-- Model diagnostics
-- Explainable AI
-- Statistical modelling
+### 🤖 Data Science & Machine Learning
+Machine learning · Feature engineering · Predictive modelling · Classification · Regression · Forecasting · Model diagnostics · Explainable AI · Statistical modelling
 
 ### 🏗️ Data Engineering
-- SQL data workflows
-- ETL / ELT
-- Data cleaning & transformation
-- Data pipelines
-- PySpark
-- APIs
-- Cloud fundamentals
-- Data platforms
+SQL workflows · ETL / ELT · Data cleaning · Data transformation · Data pipelines · PySpark · APIs · Databricks · Cloud fundamentals
 
 ### 🔬 Scientific Data
-- Solar physics
-- HMI / AIA / GOES
-- Scientific Python
-- Numerical analysis
-- Large-scale research datasets
+Solar physics · HMI · AIA · GOES · Scientific Python · Numerical analysis · Large-scale research datasets
 
 ---
 
 ## 📚 Currently Learning
 
-I'm continuously expanding from analytics into deeper **data science, AI, and data engineering**.
-
-🧠 **Advanced Statistics**  
-🤖 **Machine Learning & Deep Learning**  
-✨ **Generative AI & LLMs**  
-🔗 **AI Agents & Agentic Systems**  
-🏗️ **Data Engineering**  
-⚡ **Databricks & PySpark**  
-☁️ **Cloud & AWS**  
-📈 **Advanced Forecasting & Time Series**
-
-> The goal isn't to collect tools — it's to understand **when, why, and how to use them to solve real problems.**
+**Advanced Statistics** · **Machine Learning** · **Deep Learning** · **Generative AI** · **LLMs** · **AI Agents** · **Data Engineering** · **Databricks** · **PySpark** · **AWS** · **Advanced Forecasting** · **Time Series Analysis**
 
 ---
 
 ## 🧪 Experimental Builds
 
-I also build projects outside traditional analytics to improve my software engineering and problem-solving skills.
+🎮 [**Neon Pong**](https://shubham-k-jha.github.io/Neon-Pong/) · [Source Code](https://github.com/shubham-k-jha/Neon-Pong)
 
-🎮 [**Neon Pong**](https://shubham-k-jha.github.io/Neon-Pong/) · [Source](https://github.com/shubham-k-jha/Neon-Pong)
-
-♟️ [**Neon Chess — Chess vs AI**](https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/) · [Source](https://github.com/shubham-k-jha/Neon-Chess-Chess-vs-AI)
+♟️ [**Neon Chess — Chess vs AI**](https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/) · [Source Code](https://github.com/shubham-k-jha/Neon-Chess-Chess-vs-AI)
 
 ---
 
 ## 🎯 Career Focus
 
-I'm interested in opportunities across:
+**Data Analytics · Business Analytics · Business Intelligence · Product Analytics · Data Science · Machine Learning · Data Engineering**
 
-**📊 Data Analytics**  
-**💼 Business Analytics**  
-**📈 Business Intelligence**  
-**🎯 Product Analytics**  
-**🤖 Data Science**  
-**🧠 Machine Learning**  
-**🏗️ Data Engineering**
-
-I'm particularly interested in roles where **data, technology, and business decisions intersect**.
+Interested in solving real-world problems where **data, technology, and business decisions intersect**.
 
 ---
 
@@ -200,8 +139,6 @@ I'm particularly interested in roles where **data, technology, and business deci
 
 **Data • Analytics • BI • Machine Learning • Data Science**
 
-If you're working on an interesting data problem, building something useful, or looking for someone who enjoys working with data — let's connect.
-
-### ⭐ [Explore My Repositories →](https://github.com/shubham-k-jha)
+⭐ [**Explore My Repositories →**](https://github.com/shubham-k-jha)
 
 </div>
