@@ -1,122 +1,109 @@
 <div align="center">
 
-<table width="100%">
+# Shubham Kumar Jha
+
+### Data Analytics · Data Science · Scientific Computing
+
+**Turning scientific and business data into analysis, models, dashboards, and useful applications.**
+
+<p>
+  <a href="https://github.com/shubham-k-jha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/shubham-k-jha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://shubham-k-jha.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:shubhamkjha.ds@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+</div>
+
+---
+
+## About
+
+I work at the intersection of **scientific research, data analytics, and applied data science**.
+
+My background in physics and solar research has given me a strong foundation in **quantitative analysis, scientific datasets, statistics, visualization, time-series analysis, and reproducible computational workflows**.
+
+I apply the same analytical approach to business and real-world datasets through:
+
+- 📊 Data Analytics & Business Intelligence
+- 🧠 Applied Data Science & Machine Learning
+- 🔬 Scientific & Research Data Analysis
+- 📈 Statistical Analysis & Visualization
+- 🛠️ Interactive Data Applications
+
+---
+
+# What I Bring
+
+<table>
 <tr>
 
-<!-- LEFT: MINION GIF -->
-<td width="40%" align="center" valign="middle">
+<td width="25%" valign="top">
 
-<img
-  src="https://cdn.dribbble.com/userupload/20549102/file/original-84432515c793dc62458aa3990c078dd2.gif"
-  width="300"
-  alt="Minion coding"
-/>
+### 📊 Data Analytics
+
+SQL, Python, Pandas, visualization, exploratory analysis, dashboards, and business-oriented insights.
 
 </td>
 
-<!-- RIGHT: PROFILE CONTENT -->
+<td width="25%" valign="top">
 
-<td width="60%" align="left" valign="middle">
+### 🧠 Data Science
 
-<h1>👋 Welcome to my GitHub</h1>
+Machine learning, statistical analysis, model evaluation, feature analysis, and predictive workflows.
 
-<h2>Shubham Kumar Jha</h2>
+</td>
 
-<h3>
-Data Analytics · Data Science · Scientific Computing
-</h3>
+<td width="25%" valign="top">
 
-<p>
-I build data-driven projects, analytical dashboards,<br>
-machine-learning solutions, and scientific data applications.
-</p>
+### 🔬 Scientific Computing
+
+Quantitative research, scientific datasets, solar physics workflows, time-series analysis, and reproducible computation.
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🚀 Data Applications
+
+Streamlit applications, interactive dashboards, analytical tools, and data-driven interfaces.
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
-
-# 🌐 SOCIALS
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shubham-k-jha/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/shubham-k-jha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://shubham-k-jha.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-<a href="mailto:shubhamkjha.ds@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.reddit.com/user/Admirable-Ad9707/">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-</a>
-
-</div>
-
-
-## 👋 ABOUT ME
-
-I work at the intersection of **scientific research, data analytics and applied data science**.
-
-My background in physics and solar research has given me a strong foundation in **quantitative analysis, scientific datasets, statistics, visualization, time-series analysis and reproducible computational workflows**.
-
-I am now applying that analytical approach to:
-
-**📊 Data Analytics • Data Science • Scientific Research**
-
-</td>
-
-<td width="42%" valign="top">
-
-
-# 💻 TECH STACK
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)  ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-
-![Astropy](https://img.shields.io/badge/Astropy-2C3E50.svg?style=for-the-badge&logo=python&logoColor=white) ![SunPy](https://img.shields.io/badge/SunPy-0B5A9C.svg?style=for-the-badge&logo=python&logoColor=white) ![IDL](https://img.shields.io/badge/IDL-6A1B9A.svg?style=for-the-badge&logo=gnu&logoColor=white) ![DAVE4VM](https://img.shields.io/badge/DAVE4VM-4B5563.svg?style=for-the-badge) ![SHARP](https://img.shields.io/badge/SHARP-1F2937.svg?style=for-the-badge) ![SDO%20%7C%20AIA%20%7C%20HMI](https://img.shields.io/badge/SDO%20%7C%20AIA%20%7C%20HMI-0EA5E9.svg?style=for-the-badge) ![GOES](https://img.shields.io/badge/GOES-F59E0B.svg?style=for-the-badge)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shubham-k-jha&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=shubham-k-jha&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubham-k-jha&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-## 🏆 GITHUB TROPHIES
-![](https://github-profile-trophy.vercel.app/?username=shubham-k-jha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ RANDOM DEV QUOTE
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
-# 🔥 FEATURED PROJECTS
+# Selected Work
+
+> A selection of projects spanning business analytics, machine learning, scientific computing, and data applications.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## ☀️ Solar AR Kutsenko ML
 
-Physics-informed machine learning for **solar active regions, magnetic-flux emergence and flare productivity** using Kutsenko catalogues, XGBoost, SHAP and statistical modelling.
+Physics-informed machine learning for **solar active regions, magnetic-flux emergence, and flare productivity** using Kutsenko catalogues, XGBoost, SHAP, and statistical modelling.
 
-**STACK**
+**Stack**
 
 `Python` `Machine Learning` `XGBoost` `SHAP` `Statistics`
 
+<br>
+
 <a href="https://github.com/shubham-k-jha/solar-ar-kutsenko-ml">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-4F46E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-4F46E5?style=for-the-badge" alt="View Solar AR Kutsenko ML">
 </a>
 
 </td>
@@ -125,126 +112,143 @@ Physics-informed machine learning for **solar active regions, magnetic-flux emer
 
 ## 🛒 Superstore Analysis
 
-Business analytics project combining **SQL + Python + Power BI** to analyze transactional data and produce business insights and dashboards.
+Business analytics project combining **SQL, Python, and Power BI** to analyze transactional data and produce business insights and dashboards.
 
-**STACK**
+**Stack**
 
 `SQL` `Python` `Power BI` `Pandas`
 
+<br>
+
 <a href="https://github.com/shubham-k-jha/superstore-analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-EA580C?style=for-the-badge">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-EA580C?style=for-the-badge" alt="View Superstore Analysis">
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td valign="top">
+
+<td width="50%" valign="top">
 
 ## 🛍️ E-Commerce Sales Analysis
 
-End-to-end transactional analysis using **SQL and Python**, with data exploration, aggregation and visualization.
+End-to-end transactional analysis using **SQL and Python**, covering data exploration, aggregation, statistical analysis, and visualization.
 
-**STACK**
+**Stack**
 
 `SQL` `Python` `Pandas` `Matplotlib`
 
+<br>
+
 <a href="https://github.com/shubham-k-jha/ecommerce-sales-analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge" alt="View E-Commerce Analysis">
 </a>
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
 ## 👥 Online Retail Analytics
 
 Analysis of the **UCI Online Retail II dataset** using Pandas and PySpark, including RFM customer segmentation and cancellation prediction with Random Forest.
 
-**STACK**
+**Stack**
 
 `Python` `Pandas` `PySpark` `Random Forest`
 
+<br>
+
 <a href="https://github.com/shubham-k-jha/online-retail-analytics">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-16A34A?style=for-the-badge">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-16A34A?style=for-the-badge" alt="View Online Retail Analytics">
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
+
+<td colspan="2">
 
 ## 🎬 Netflix Content Intelligence
 
-End-to-end Netflix Top 10 analytics covering **global and country intelligence, content lifecycle, statistical analysis, forecasting and machine learning** using official Netflix published data.
+End-to-end Netflix Top 10 analytics covering **global and country intelligence, content lifecycle, statistical analysis, forecasting, and machine learning** using official Netflix published data.
 
-**STACK**
+**Stack**
 
 `Python` `SQL` `Statistics` `Machine Learning` `Streamlit`
 
 <a href="https://github.com/shubham-k-jha/netflix-content-intelligence">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-E50914?style=for-the-badge">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-E50914?style=for-the-badge" alt="View Netflix Content Intelligence">
 </a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
----
+# Live Applications
 
-# 🚀 LIVE APPS & INTERACTIVE BUILDS
-
-> **Try the work, don't just read about it.**
+> **Try the work — don't just read about it.**
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-### 📈 FINANCE CALCULATOR
-
-<a href="https://finance-calc-app.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀_OPEN_APP-00C2FF?style=for-the-badge&labelColor=07111F">
-</a>
-
-**Streamlit · Plotly · Finance**
+### 📈 Finance Calculator
 
 Interactive finance calculator and dashboard.
 
+**Streamlit · Plotly · Finance**
+
+<br>
+
+<a href="https://finance-calc-app.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_OPEN_APP-00C2FF?style=for-the-badge&labelColor=07111F" alt="Open Finance Calculator">
+</a>
+
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-### 🎯 ATS RESUME SCREENER
-
-<a href="https://ats--resume-screener.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀_OPEN_APP-7C3AED?style=for-the-badge&labelColor=07111F">
-</a>
-
-<a href="https://github.com/shubham-k-jha/ats-resume-screener">
-<img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-**Streamlit · Resume Analytics · ATS**
+### 🎯 ATS Resume Screener
 
 Interactive resume screening and analysis workflow.
 
+**Streamlit · Resume Analytics · ATS**
+
+<br>
+
+<a href="https://ats--resume-screener.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_OPEN_APP-7C3AED?style=for-the-badge&labelColor=07111F" alt="Open ATS Resume Screener">
+</a>
+
+<br><br>
+
+<a href="https://github.com/shubham-k-jha/ats-resume-screener">
+<img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="ATS Resume Screener Source">
+</a>
+
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-### 🤖 JOB AGENT
+### 🤖 Job Agent
 
-<a href="https://job--agent.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀_OPEN_APP-FF4D6D?style=for-the-badge&labelColor=07111F">
-</a>
+Interactive job-search and matching workflow.
 
 **Streamlit · Job Discovery · Automation**
 
-Interactive job-search and matching workflow.
+<br>
+
+<a href="https://job--agent.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_OPEN_APP-FF4D6D?style=for-the-badge&labelColor=07111F" alt="Open Job Agent">
+</a>
 
 </td>
 
@@ -253,59 +257,185 @@ Interactive job-search and matching workflow.
 
 ---
 
+# Technical Toolkit
+
+### Data & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+</p>
+
+### Machine Learning & Scientific Analysis
+
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+<img src="https://img.shields.io/badge/MLflow-D9EAD3?style=flat-square&logo=mlflow&logoColor=blue">
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white">
+</p>
+
+### Scientific Computing
+
+<p>
+<img src="https://img.shields.io/badge/Astropy-2C3E50?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SunPy-0B5A9C?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/IDL-6A1B9A?style=flat-square">
+<img src="https://img.shields.io/badge/DAVE4VM-4B5563?style=flat-square">
+<img src="https://img.shields.io/badge/SHARP-1F2937?style=flat-square">
+<img src="https://img.shields.io/badge/SDO%20%7C%20AIA%20%7C%20HMI-0EA5E9?style=flat-square">
+<img src="https://img.shields.io/badge/GOES-F59E0B?style=flat-square">
+</p>
+
+### Engineering, Cloud & Workflow
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab%20CI-181717?style=flat-square&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black">
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
+</p>
+
 ---
 
-# 🎮 GAME LAB
+# Repository Language Distribution
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-k-jha&layout=compact&hide_border=true"
+    alt="Repository Language Distribution"
+  />
+</p>
+
+> Repository language statistics reflect public repository code distribution and should not be interpreted as a ranking of professional skills.
+
+---
+
+# GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.demolab.com/?user=shubham-k-jha&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-k-jha&hide_border=true"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img
+  src="https://github-profile-analytics-rho.vercel.app/api/count?username=shubham-k-jha&label=PROFILE%20VIEWS"
+  alt="GitHub Profile Views"
+/>
+
+&nbsp;&nbsp;
+
+<a href="https://github-profile-analytics-rho.vercel.app/dashboard.html">
+  📈 <strong>View Analytics Dashboard →</strong>
+</a>
+
+</p>
+
+---
+
+# 🎮 Game Lab
+
+A smaller side of the profile focused on interactive browser projects.
 
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 🏓 NEON PONG
+### 🏓 Neon Pong
+
+A browser-based Pong game built with HTML, CSS, and JavaScript with mouse/keyboard controls and an AI opponent.
+
+<br>
 
 <a href="https://shubham-k-jha.github.io/Neon-Pong">
-<img src="https://img.shields.io/badge/▶_PLAY_LIVE-FF0080?style=for-the-badge&logo=githubpages&logoColor=white">
+<img src="https://img.shields.io/badge/▶_PLAY_LIVE-FF0080?style=for-the-badge&logo=githubpages&logoColor=white" alt="Play Neon Pong">
 </a>
+
+<br><br>
 
 <a href="https://github.com/shubham-k-jha/pong">
-<img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Neon Pong Source">
 </a>
-
-**Browser Game · JavaScript · UI**
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### ♟️ NEON CHESS
+### ♟️ Neon Chess
+
+An interactive browser chess game featuring an AI opponent.
+
+<br>
 
 <a href="https://shubham-k-jha.github.io/Neon-Chess-Chess-vs-AI/">
-<img src="https://img.shields.io/badge/▶_PLAY_LIVE-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white">
+<img src="https://img.shields.io/badge/▶_PLAY_LIVE-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Play Neon Chess">
 </a>
+
+<br><br>
 
 <a href="https://github.com/shubham-k-jha/Neon-Chess-Chess-vs-AI">
-<img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Neon Chess Source">
 </a>
-
-**Browser Game · Chess · AI**
 
 </td>
 
 </tr>
 </table>
+
 ---
 
+# Let's Build Something Useful
 
-## 📊 GitHub Analytics
+I'm interested in **data analytics, data science, scientific research, analytical applications, and interesting technical projects**.
 
-<p align="left">
-  <img
-    src="https://github-profile-analytics-rho.vercel.app/api/count?username=shubham-k-jha&label=PROFILE%20VIEWS"
-    alt="GitHub Profile Views"
-  />
-  &nbsp;
-  <a href="https://github-profile-analytics-rho.vercel.app/dashboard.html">
-    📈 View Analytics Dashboard
-  </a>
+If you're working on something where data can help answer a difficult question, uncover a useful pattern, or build a better solution:
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shubham-k-jha/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:shubhamkjha.ds@gmail.com">
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://shubham-k-jha.github.io/">
+<img src="https://img.shields.io/badge/VISIT_PORTFOLIO-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
 </p>
+
+<div align="center">
+
+**Data → Analysis → Insight → Impact**
+
+</div>
