@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shubham Kumar Jha
+# Shubham Jha
 
 **Data Analyst · Physics Researcher · Data Scientist**
 
@@ -33,41 +33,31 @@ I work at the point where physics meets analytics. Four years of research with l
 
 </div>
 
+### Project Previews
+
+<div align="center">
+
+| Superstore dashboard | Online Retail model results |
+|:-:|:-:|
+| <img src="https://shubham-k-jha.github.io/assets/superstore-dashboard.png" width="100%" alt="Superstore performance dashboard" /> | <img src="https://shubham-k-jha.github.io/assets/uci-retail-charts.png" width="100%" alt="Online Retail II model results" /> |
+| *Tables and Bookcases lose money; low-priority orders ship about three times slower.* | *ROC-AUC rises to 0.8448 across five models; repeat customers bring in 94.3% of revenue.* |
+
+</div>
+
 ## Skills
 
 <div align="center">
 
-**Languages & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-
-**BI & Visualisation**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-**Machine Learning & Statistics**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP-000000?style=flat-square) ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-7C3AED?style=flat-square)
-
-**Tools & Cloud**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-
-**Scientific Computing**
-
-SunPy · Astropy · HMI · AIA · GOES
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP-000000?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 </div>
 
-## Contributions
+## GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shubham-k-jha&theme=github-compact&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shubham-k-jha&theme=github-compact&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-k-jha&theme=github-compact&hide_border=true" alt="GitHub contribution graph" width="100%" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=shubham-k-jha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-k-jha&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
 
 </div>
 
@@ -78,6 +68,8 @@ SunPy · Astropy · HMI · AIA · GOES
 
 ## Currently
 
+**Building:** [New projects in AI agents and data engineering →](https://github.com/shubham-k-jha?tab=repositories)
+
 **Learning:** Advanced machine learning, AI and LLMs, AI agents, data engineering, Databricks, AWS, forecasting
 
 **Open to:** Data analytics, business analytics, BI, product analytics, data science, and ML roles
@@ -86,6 +78,6 @@ SunPy · Astropy · HMI · AIA · GOES
 
 <div align="center">
 
-**Contact:** [shubhamkjha.ds@gmail.com](mailto:shubhamkjha.ds@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shubham-k-jha/) · [GitHub](https://github.com/shubham-k-jha)
+**Get in touch:** [shubhamkjha.ds@gmail.com](mailto:shubhamkjha.ds@gmail.com)
 
 </div>
