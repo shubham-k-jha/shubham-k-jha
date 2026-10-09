@@ -1,4 +1,4 @@
-<div align="center">
+[[<div align="center">
 
 # Shubham Jha
 
@@ -81,3 +81,4 @@ I work at the point where physics meets analytics. Four years of research with l
 **Get in touch:** [shubhamkjha.ds@gmail.com](mailto:shubhamkjha.ds@gmail.com)
 
 </div>
+](https://github-profile-analytics-rho.vercel.app/dashboard.html)](https://github-profile-analytics-rho.vercel.app/dashboard.html)
