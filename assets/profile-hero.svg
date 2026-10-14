@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Shubham Jha — Data, patterns, prediction</title>
+  <desc id="desc">A midnight-blue editorial banner with luminous teal and amber data motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset=".52" stop-color="#172440"/>
+      <stop offset="1" stop-color="#20224B"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#A5F3FC"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FDBA74"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <radialGradient id="aura">
+      <stop offset="0" stop-color="#5EEAD4" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#94A3B8" stroke-opacity=".11" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="360" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="940" cy="180" r="290" fill="url(#aura)"/>
+    <path d="M760 360C850 230 850 110 1050 -20" fill="none" stroke="#A5F3FC" stroke-opacity=".16" stroke-width="1.5"/>
+    <path d="M820 380C930 250 950 100 1150 0" fill="none" stroke="#A5F3FC" stroke-opacity=".12" stroke-width="1.5"/>
+    <circle cx="965" cy="166" r="122" fill="none" stroke="#A5F3FC" stroke-opacity=".2" stroke-width="1.5"/>
+    <circle cx="965" cy="166" r="94" fill="none" stroke="#A5F3FC" stroke-opacity=".24" stroke-width="1.5" stroke-dasharray="4 9"/>
+    <circle cx="965" cy="166" r="65" fill="none" stroke="#5EEAD4" stroke-opacity=".6" stroke-width="2"/>
+    <circle cx="965" cy="166" r="44" fill="url(#glow)" fill-opacity=".12"/>
+    <circle cx="965" cy="166" r="9" fill="url(#amber)"/>
+    <circle cx="965" cy="166" r="16" fill="none" stroke="#FDBA74" stroke-opacity=".7"/>
+    <path d="M845 166H1084M965 46V286" stroke="#A5F3FC" stroke-opacity=".15"/>
+    <g fill="#5EEAD4">
+      <circle cx="843" cy="166" r="4"/><circle cx="1086" cy="166" r="4"/>
+      <circle cx="965" cy="44" r="4"/><circle cx="965" cy="288" r="4"/>
+    </g>
+    <g transform="translate(786 72)">
+      <rect x="0" y="0" width="34" height="48" rx="8" fill="#5EEAD4" fill-opacity=".2" stroke="#5EEAD4" stroke-opacity=".7"/>
+      <rect x="46" y="22" width="34" height="26" rx="8" fill="#5EEAD4" fill-opacity=".12" stroke="#5EEAD4" stroke-opacity=".45"/>
+      <rect x="92" y="-9" width="34" height="57" rx="8" fill="#FDBA74" fill-opacity=".18" stroke="#FDBA74" stroke-opacity=".8"/>
+    </g>
+    <g transform="translate(1007 231)">
+      <path d="M0 48V18H20V48M30 48V0H50V48M60 48V28H80V48M90 48V9H110V48" fill="#5EEAD4" fill-opacity=".2" stroke="#5EEAD4" stroke-opacity=".65" stroke-width="1.5"/>
+      <path d="M-5 49H118" stroke="#A5F3FC" stroke-opacity=".35"/>
+    </g>
+    <path d="M786 283L825 267L856 281L890 240L920 250" fill="none" stroke="url(#glow)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#A5F3FC">
+      <circle cx="786" cy="283" r="3"/><circle cx="825" cy="267" r="3"/><circle cx="856" cy="281" r="3"/><circle cx="890" cy="240" r="3"/><circle cx="920" cy="250" r="3"/>
+    </g>
+    <rect x="64" y="58" width="4" height="30" rx="2" fill="url(#amber)"/>
+    <text x="84" y="78" fill="#99F6E4" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3.4">QUANTITATIVE THINKING  /  PRACTICAL DATA</text>
+    <text x="64" y="157" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="-1.8">SHUBHAM JHA</text>
+    <text x="67" y="202" fill="#D7E3F4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400">Data analytics · Machine learning · Scientific research</text>
+    <path d="M66 239H414" stroke="#A5F3FC" stroke-opacity=".28" stroke-width="1"/>
+    <circle cx="72" cy="274" r="4" fill="url(#amber)"/>
+    <text x="88" y="280" fill="#C3D3E7" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.5">FIND THE SIGNAL. EXPLAIN THE WHY.</text>
+    <text x="1128" y="326" text-anchor="end" fill="#B9C8DD" fill-opacity=".7" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">FIELD NOTES  /  01</text>
+  </g>
+</svg>
