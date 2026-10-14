@@ -1,0 +1,105 @@
+{
+  "projects": [
+    {
+      "name": "Customer Revenue & Churn Intelligence",
+      "repo": "https://github.com/shubham-k-jha/Customer-Revenue-Churn",
+      "categories": [
+        "data_analytics",
+        "data_science",
+        "python"
+      ],
+      "tools": [
+        "Python",
+        "SQL",
+        "FastAPI",
+        "Streamlit",
+        "churn modeling",
+        "forecasting"
+      ],
+      "description": "Business metrics, customer and revenue analysis, churn modeling, forecasting, and reporting."
+    },
+    {
+      "name": "Superstore Sales Analysis",
+      "repo": "https://github.com/shubham-k-jha/superstore-analysis",
+      "categories": [
+        "data_analytics",
+        "sql",
+        "bi",
+        "python"
+      ],
+      "tools": [
+        "SQL",
+        "Python",
+        "Pandas",
+        "Power BI"
+      ],
+      "description": "Retail profitability analysis using SQL, Python, and a Power BI dashboard."
+    },
+    {
+      "name": "Online Retail Analytics",
+      "repo": "https://github.com/shubham-k-jha/online-retail-analytics",
+      "categories": [
+        "data_analytics",
+        "data_science",
+        "python"
+      ],
+      "tools": [
+        "Python",
+        "Pandas",
+        "PySpark",
+        "Scikit-learn",
+        "segmentation"
+      ],
+      "description": "Customer segmentation, transaction analysis, and cancellation prediction using Pandas and PySpark."
+    },
+    {
+      "name": "Netflix Content Analytics",
+      "repo": "https://github.com/shubham-k-jha/netflix-content-analytics",
+      "categories": [
+        "data_analytics",
+        "sql",
+        "python"
+      ],
+      "tools": [
+        "Python",
+        "SQL",
+        "visualization",
+        "public data"
+      ],
+      "description": "Exploration of public Netflix Top 10 data and title ranking patterns."
+    },
+    {
+      "name": "Solar Active-Region Machine Learning",
+      "repo": "https://github.com/shubham-k-jha/solar-ar-kutsenko-ml",
+      "categories": [
+        "research",
+        "data_science",
+        "python"
+      ],
+      "tools": [
+        "Python",
+        "statistics",
+        "XGBoost",
+        "SHAP",
+        "solar physics"
+      ],
+      "description": "Scientific analysis of solar active regions, flare productivity, statistics, and explainable ML."
+    },
+    {
+      "name": "E-Commerce Sales Analysis",
+      "repo": "https://github.com/shubham-k-jha/ecommerce-sales-analysis",
+      "categories": [
+        "data_analytics",
+        "sql",
+        "python"
+      ],
+      "tools": [
+        "Python",
+        "SQL",
+        "sales analysis",
+        "synthetic practice data"
+      ],
+      "description": "Reproducible transactional analysis workflow using synthetic practice data."
+    }
+  ]
+}
