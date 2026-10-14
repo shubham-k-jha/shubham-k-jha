@@ -7,8 +7,7 @@
 [Portfolio](https://shubham-k-jha.github.io/) ·
 [LinkedIn](https://www.linkedin.com/in/shubham-k-jha/) ·
 [GitHub repositories](https://github.com/shubham-k-jha?tab=repositories) ·
-[Email](mailto:shubhamkjha.ds@gmail.com) ·
-[CV](./assets/Shubham-Jha-CV.pdf)
+[Email](mailto:shubhamkjha.ds@gmail.com)
 
 </div>
 
