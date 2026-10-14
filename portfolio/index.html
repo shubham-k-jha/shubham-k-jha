@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Explore Shubham Jha's data analytics, machine learning, SQL, and scientific research projects.">
+<title>Shubham Jha — Portfolio Explorer</title>
+<style>
+:root{color-scheme:dark;--bg:#07111f;--panel:#0d1b2a;--panel2:#11243a;--text:#edf5ff;--muted:#a9bad0;--line:#29415d;--accent:#67e8f9;--focus:#a5b4fc}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top,#142b47 0,var(--bg) 48%);color:var(--text);font:16px/1.6 system-ui,-apple-system,Segoe UI,sans-serif}
+a{color:var(--accent)}a:focus-visible,button:focus-visible,input:focus-visible{outline:3px solid var(--focus);outline-offset:3px}
+main{max-width:1120px;margin:auto;padding:24px 20px 64px}.hero{padding:38px 0 24px}.eyebrow{color:var(--accent);font-weight:800;letter-spacing:.13em;text-transform:uppercase;font-size:.82rem}.hero h1{font-size:clamp(2.6rem,7vw,4.8rem);line-height:1.05;margin:10px 0}.hero p{max-width:720px;color:var(--muted);font-size:1.12rem}.links{display:flex;gap:16px;flex-wrap:wrap}.links a{font-weight:650;text-decoration:none}.stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:24px 0}.stat,.card{background:linear-gradient(145deg,var(--panel),var(--panel2));border:1px solid var(--line);border-radius:16px}.stat{padding:15px 18px;color:var(--muted)}.stat strong{display:block;color:var(--text);font-size:1.7rem}.controls{display:flex;gap:9px;flex-wrap:wrap;margin:22px 0}.controls button,.controls input{background:var(--panel);border:1px solid var(--line);color:var(--text);border-radius:10px;padding:10px 13px;font:inherit}.controls button{cursor:pointer}.controls button[aria-pressed=true]{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}.controls input{flex:1;min-width:220px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,285px),1fr));gap:15px}.card{padding:20px;min-width:0}.card h2{font-size:1.15rem;line-height:1.35;margin:0 0 9px}.card p{color:var(--muted);margin:0 0 16px}.tags{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 18px}.tag{font-size:.78rem;border-radius:999px;padding:3px 9px;background:#18324e;color:#b7e8ff}.card a{font-weight:700;text-decoration:none}.empty,.error{border:1px solid var(--line);border-radius:12px;padding:18px;color:var(--muted)}footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line);color:var(--muted);font-size:.9rem}
+@media(max-width:620px){main{padding:16px 14px 44px}.stats{grid-template-columns:1fr}.controls input{flex-basis:100%}}
+</style>
+</head>
+<body>
+<main>
+<header class="hero">
+<div class="eyebrow">Portfolio explorer</div>
+<h1>Shubham Jha</h1>
+<p>Physics research and quantitative thinking applied to data analytics, business intelligence, and machine learning. Search or filter the projects below.</p>
+<nav class="links" aria-label="Profile links">
+<a href="https://github.com/shubham-k-jha">GitHub</a>
+<a href="https://shubham-k-jha.github.io/">Main portfolio</a>
+<a href="https://www.linkedin.com/in/shubham-k-jha/">LinkedIn</a>
+</nav>
+</header>
+<section class="stats" aria-label="Portfolio summary" id="stats">
+<div class="stat"><strong>—</strong>Projects</div><div class="stat"><strong>—</strong>Tracks</div><div class="stat"><strong>Python · SQL</strong>Core tools</div>
+</section>
+<section aria-label="Project filters">
+<div class="controls" id="filters"><p class="error">Loading project list…</p></div>
+<div id="status" role="status" aria-live="polite"></div>
+<div class="grid" id="grid"></div>
+</section>
+<footer>Project descriptions are concise summaries. Open each repository for source code, documentation, and project-specific limitations.</footer>
+</main>
+<script>
+(() => {
+  "use strict";
+  const labels = {
+    data_analytics: "📊 Data Analytics", data_science: "🤖 Data Science & ML",
+    sql: "🗄️ SQL & Databases", bi: "📈 BI & Visualization",
+    python: "🐍 Python", research: "🔬 Research",
+    cloud: "☁️ Cloud & Deployment", learning: "📚 Learning"
+  };
+  const filtersEl = document.querySelector("#filters");
+  const statsEl = document.querySelector("#stats");
+  const gridEl = document.querySelector("#grid");
+  const statusEl = document.querySelector("#status");
+  let projects = [];
+  let activeCategory = "all";
+  let query = "";
+
+  function element(tag, className, text) {
+    const node = document.createElement(tag);
+    if (className) node.className = className;
+    if (text !== undefined) node.textContent = text;
+    return node;
+  }
+
+  function renderFilters() {
+    filtersEl.replaceChildren();
+    ["all", ...Object.keys(labels)].forEach(category => {
+      const button = element("button", "", category === "all" ? "All projects" : labels[category]);
+      button.type = "button";
+      button.setAttribute("aria-pressed", String(activeCategory === category));
+      button.addEventListener("click", () => {
+        activeCategory = category;
+        renderFilters();
+        renderProjects();
+      });
+      filtersEl.append(button);
+    });
+    const input = element("input");
+    input.type = "search";
+    input.placeholder = "Search project names, tools, or descriptions…";
+    input.setAttribute("aria-label", "Search projects");
+    input.value = query;
+    input.addEventListener("input", event => {
+      query = event.target.value;
+      renderProjects();
+    });
+    filtersEl.append(input);
+  }
+
+  function renderStats() {
+    const trackCount = new Set(projects.flatMap(project => project.categories)).size;
+    statsEl.replaceChildren();
+    [[String(projects.length), "Projects"], [String(trackCount), "Tracks"], ["Python · SQL", "Core tools"]].forEach(([value, label]) => {
+      const card = element("div", "stat");
+      card.append(element("strong", "", value), document.createTextNode(label));
+      statsEl.append(card);
+    });
+  }
+
+  function renderProjects() {
+    const normalizedQuery = query.trim().toLowerCase();
+    const visible = projects.filter(project => {
+      const matchesCategory = activeCategory === "all" || project.categories.includes(activeCategory);
+      const searchable = [
+        project.name,
+        project.description,
+        ...(Array.isArray(project.tools) ? project.tools : []),
+        ...project.categories.map(category => labels[category] || category)
+      ].join(" ").toLowerCase();
+      return matchesCategory && (!normalizedQuery || searchable.includes(normalizedQuery));
+    });
+    gridEl.replaceChildren();
+    visible.forEach(project => {
+      const card = element("article", "card");
+      card.append(element("h2", "", project.name));
+      card.append(element("p", "", project.description));
+      const tags = element("div", "tags");
+      const allTags = [...project.categories.map(category => labels[category] || category), ...(Array.isArray(project.tools) ? project.tools : [])];
+      allTags.forEach(tag => tags.append(element("span", "tag", tag)));
+      card.append(tags);
+      const link = element("a", "", "View repository →");
+      link.href = project.repo;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      card.append(link);
+      gridEl.append(card);
+    });
+    statusEl.textContent = `${visible.length} of ${projects.length} projects shown.`;
+    if (!visible.length) gridEl.append(element("p", "empty", "No projects match. Try another search or filter."));
+  }
+
+  async function init() {
+    try {
+      const response = await fetch("./projects.json", { headers: { "Accept": "application/json" } });
+      if (!response.ok) throw new Error(`Project data request failed (${response.status}).`);
+      const payload = await response.json();
+      if (!payload || !Array.isArray(payload.projects)) throw new Error("Project data has an invalid format.");
+      projects = payload.projects.filter(project =>
+        project && typeof project.name === "string" &&
+        typeof project.description === "string" &&
+        typeof project.repo === "string" &&
+        Array.isArray(project.categories)
+      );
+      renderStats();
+      renderFilters();
+      renderProjects();
+    } catch (error) {
+      filtersEl.replaceChildren();
+      gridEl.replaceChildren(element("p", "error", "The project list could not be loaded. Open this page through a web server and check that projects.json is present."));
+      statusEl.textContent = "Project list unavailable.";
+      console.error(error);
+    }
+  }
+  init();
+})();
+</script>
+</body>
+</html>
